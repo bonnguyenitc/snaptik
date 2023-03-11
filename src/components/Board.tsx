@@ -174,7 +174,7 @@ const Board = (props: Props) => {
             <Input
               value={link}
               className={openSans.className}
-              placeholder="Paste your video link here"
+              placeholder="https://www.tiktok.com/@user/video/12345"
               bg="background.main"
               onChange={handleChangeLink}
               color="primary.dark"

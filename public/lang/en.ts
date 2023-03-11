@@ -138,4 +138,7 @@ export default {
     NOT_A_LINK_TIKTOK:
       'Sorry, the provided URL is not a valid TikTok URL. Please provide a valid TikTok URL to proceed.',
   },
+  form: {
+    placeholder: 'Paste your video link here',
+  },
 };
