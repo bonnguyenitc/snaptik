@@ -3,7 +3,7 @@ import Head from 'next/head';
 import { useRouter } from 'next/router';
 
 type Props = {
-  title: string;
+  title?: string;
 };
 
 const Header = ({ title }: Props) => {

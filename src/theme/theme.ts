@@ -20,7 +20,7 @@ const colors = {
 };
 
 const breakpoints = {
-  md: '768px',
+  // md: '768px',
   lg: '960px',
 };
 

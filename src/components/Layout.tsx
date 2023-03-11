@@ -6,7 +6,7 @@ import Footer from './Footer';
 import NavBar from './NavBar';
 type Props = {
   children: any;
-  title: string;
+  title?: string;
 };
 
 const Layout = ({ children, title }: Props) => {
