@@ -23,7 +23,7 @@ const Footer = (props: Props) => {
       py="5"
     >
       <Text className={openSans.className} fontSize="sm" color="primary.light">
-        © 2023 SnapTik2. All rights reserved.
+        © 2023 SnapTik1Click. All rights reserved.
       </Text>
     </HStack>
   );
