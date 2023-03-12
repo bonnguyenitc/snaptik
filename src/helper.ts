@@ -1,7 +1,7 @@
 import { REGEX_LINK_DOUYIN, REGEX_LINK_TIKTOK } from './contants';
 
 export const isTiktokLink = (link: string): boolean => {
-  return REGEX_LINK_TIKTOK.test(link);
+  return REGEX_LINK_TIKTOK.filter((item) => item.test(link)).length > 0;
 };
 
 export const isDouyinLink = (link: string): boolean => {
