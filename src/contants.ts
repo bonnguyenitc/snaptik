@@ -14,7 +14,7 @@ export const LANGUAGES = [
     name: 'Brazil',
   },
   {
-    alias: 'id',
+    alias: 'ID',
     name: 'Indonesia',
   },
 ];

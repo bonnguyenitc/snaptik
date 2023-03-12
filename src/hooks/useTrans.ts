@@ -9,7 +9,7 @@ const langs = {
   en,
   vn,
   br,
-  id,
+  ID: id,
 };
 
 const useTrans = () => {

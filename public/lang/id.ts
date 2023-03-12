@@ -1,6 +1,6 @@
 export default {
   home: {
-    title: 'Tiktok Downloader - Unduh Video TikTok Tanpa Tanda Air - SnapTik1Click',
+    title: 'Download Video Tiktok Tanpa Watermark - TikTok Downloader - SnapTik1Click',
     languages: 'Languages',
     name: 'Download video TikTok hanya dengan 1 kali klik',
     sologon: 'Tanpa Watermark. Paling Cepat. Di mana saja.',
@@ -40,17 +40,17 @@ export default {
     },
   },
   meta: {
-    title: 'Tiktok Downloader - Unduh Video TikTok Tanpa Tanda Air - SnapTik1Click',
-    itemprop: 'Tiktok Downloader - Unduh Video TikTok Tanpa Tanda Air - SnapTik1Click',
+    title: 'Download Video Tiktok Tanpa Watermark - TikTok Downloader - SnapTik1Click',
+    itemprop: 'Download Video Tiktok Tanpa Watermark - TikTok Downloader - SnapTik1Click',
     description:
       'TikTok Video Downloader - SnapTik1Click.App adalah salah satu alat Download video Tiktok tanpa Watermark terbaik yang tersedia secara gratis online. Anda dapat mengunduh video TikTok dari perangkat apa pun yang Anda miliki.',
-    twitterTitle: 'Tiktok Downloader - Unduh Video TikTok Tanpa Tanda Air - SnapTik1Click',
+    twitterTitle: 'Download Video Tiktok Tanpa Watermark - TikTok Downloader - SnapTik1Click',
     twitterDescription:
       'TikTok Video Downloader - SnapTik1Click.App adalah salah satu alat Download video Tiktok tanpa Watermark terbaik yang tersedia secara gratis online. Anda dapat mengunduh video TikTok dari perangkat apa pun yang Anda miliki.',
-    ogTitle: 'Tiktok Downloader - Unduh Video TikTok Tanpa Tanda Air - SnapTik1Click',
+    ogTitle: 'Download Video Tiktok Tanpa Watermark - TikTok Downloader - SnapTik1Click',
     ogDescription:
       'TikTok Video Downloader - SnapTik1Click.App adalah salah satu alat Download video Tiktok tanpa Watermark terbaik yang tersedia secara gratis online. Anda dapat mengunduh video TikTok dari perangkat apa pun yang Anda miliki.',
-    ogSiteName: 'Tiktok Downloader - Unduh Video TikTok Tanpa Tanda Air - SnapTik1Click',
+    ogSiteName: 'Download Video Tiktok Tanpa Watermark - TikTok Downloader - SnapTik1Click',
   },
   contact: {
     short: 'Contact',

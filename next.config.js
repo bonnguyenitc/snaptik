@@ -4,7 +4,7 @@ const nextConfig = {
   i18n: {
     locales: [
       'en',
-      'id',
+      'ID',
       'vn',
       'ms',
       'jv',

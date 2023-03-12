@@ -40,21 +40,21 @@ export default {
     },
   },
   meta: {
-    title: 'Tiktok Downloader - Tải video TikTok không logo với 1 click - SnapTik1Click',
-    itemprop: 'Tiktok Downloader - Tải video TikTok không logo với 1 click - SnapTik1Click',
+    title: 'Tải video tiktok không có logo, hình mờ, watermark miễn phí',
+    itemprop: 'Tải video tiktok không có logo, hình mờ, watermark miễn phí',
     description:
       'TikTok Video Downloader - SnapTik1Click.App là 1 công cụ tải video TikTok tốt nhất hiện nay. Bạn có thể tải xuống video bất kỳ ở đâu bạn muốn trên cả máy tính và smartphone',
-    twitterTitle: 'Tiktok Downloader - Tải video TikTok không logo với 1 click - SnapTik1Click',
+    twitterTitle: 'Tải video tiktok không có logo, hình mờ, watermark miễn phí',
     twitterDescription:
       'TikTok Video Downloader - SnapTik1Click.App là 1 công cụ tải video TikTok tốt nhất hiện nay. Bạn có thể tải xuống video bất kỳ ở đâu bạn muốn trên cả máy tính và smartphone',
-    ogTitle: 'Tiktok Downloader - Tải video TikTok không logo với 1 click - SnapTik1Click',
+    ogTitle: 'Tải video tiktok không có logo, hình mờ, watermark miễn phí',
     ogDescription:
       'TikTok Video Downloader - SnapTik1Click.App là 1 công cụ tải video TikTok tốt nhất hiện nay. Bạn có thể tải xuống video bất kỳ ở đâu bạn muốn trên cả máy tính và smartphone',
-    ogSiteName: 'Tiktok Downloader - Tải video TikTok không logo với 1 click - SnapTik1Click',
+    ogSiteName: 'Tải video tiktok không có logo, hình mờ, watermark miễn phí',
   },
   contact: {
     short: 'Contact',
-    title: 'Liên hệ - Tiktok Downloader - Tải video TikTok không logo với 1 click - SnapTik1Click',
+    title: 'Liên hệ - Tải video tiktok không có logo, hình mờ, watermark miễn phí',
     description1: 'Để liên hệ với SnapTik1Click.App, bạn vui lòng gởi mail đến ',
     description2:
       'Nếu bạn có bất kỳ câu hỏi, quan ngại hoặc phản hồi về trình tải TikTok của chúng tôi, đội ngũ của chúng tôi luôn sẵn sàng giúp đỡ. Chỉ cần gửi email cho chúng tôi, và chúng tôi sẽ cố gắng cung cấp cho bạn thông tin hoặc hỗ trợ bạn cần càng nhanh càng tốt. Chúng tôi trân trọng đóng góp của bạn và luôn cố gắng cải thiện dịch vụ của mình để đáp ứng nhu cầu của bạn.',
