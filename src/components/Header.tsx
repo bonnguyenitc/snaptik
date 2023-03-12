@@ -24,14 +24,14 @@ const Header = ({ title }: Props) => {
       <meta name="keywords" content={keywords.join(', ')} />
       <meta name="author" content="Admin" />
       <meta property="og:locale" content={router.locale} />
-      <meta itemProp="image" content={`${process.env.NEXT_PUBLIC_DOMAIN}/snapthumb.png`} />
+      <meta itemProp="image" content={`${process.env.NEXT_PUBLIC_DOMAIN}/thumb.png`} />
       <meta name="twitter:card" content="summary" />
       <meta name="twitter:title" content={trans.meta.twitterTitle} />
       <meta name="twitter:description" content={trans.meta.twitterDescription} />
-      <meta name="twitter:image:src" content={`${process.env.NEXT_PUBLIC_DOMAIN}/snapthumb.png`} />
+      <meta name="twitter:image:src" content={`${process.env.NEXT_PUBLIC_DOMAIN}/thumb.png`} />
       <meta property="og:title" content={trans.meta.ogTitle} />
       <meta property="og:type" content="article" />
-      <meta property="og:image" content={`${process.env.NEXT_PUBLIC_DOMAIN}/snapthumb.png`} />
+      <meta property="og:image" content={`${process.env.NEXT_PUBLIC_DOMAIN}/thumb.png`} />
       <meta property="og:description" content={trans.meta.ogDescription} />
       <meta property="og:site_name" content={trans.meta.ogSiteName} />
       <link
