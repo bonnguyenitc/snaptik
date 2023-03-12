@@ -180,7 +180,7 @@ const Board = (props: Props) => {
               color="primary.dark"
               required
             />
-            <InputRightElement width="5rem">
+            <InputRightElement width="auto">
               {!link ? (
                 <Button
                   leftIcon={<BsFillClipboardFill />}
