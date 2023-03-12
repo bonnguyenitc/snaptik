@@ -44,6 +44,16 @@ export default function Home() {
           {trans.home.text3}
         </Text>
         <Box height="16px" />
+        <iframe
+          width="100%"
+          height="700px"
+          src="https://www.youtube.com/embed/tUpTMbl991U"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowFullScreen
+        ></iframe>
+        <Box height="16px" />
         <Heading className={openSans.className} color={textColor}>
           {trans.home.howToUse.title}
         </Heading>
