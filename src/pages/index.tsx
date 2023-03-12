@@ -58,7 +58,7 @@ export default function Home() {
                   color={textColor}
                   lineHeight="9"
                 >
-                  {trans.home.howToUse?.[step]}
+                  {{ ...(trans.home.howToUse as any) }?.[step as any]}
                 </Text>
               </ListItem>
             ))}
@@ -79,7 +79,7 @@ export default function Home() {
                   color={textColor}
                   lineHeight="7"
                 >
-                  {trans.home?.[feature]}
+                  {{ ...(trans.home as any) }?.[feature as any]}
                 </Text>
               </ListItem>
             ))}

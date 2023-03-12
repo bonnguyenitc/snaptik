@@ -12,10 +12,12 @@ const langs = {
   ID: id,
 };
 
+type LOCALE = keyof typeof langs;
+
 const useTrans = () => {
   const { locale } = useRouter();
 
-  const trans = useMemo(() => langs[locale ?? 'en'] || langs.en, [locale]);
+  const trans = useMemo(() => langs[(locale as LOCALE) ?? 'en'] || langs.en, [locale]);
 
   return trans;
 };

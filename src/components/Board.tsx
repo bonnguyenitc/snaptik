@@ -243,7 +243,7 @@ const Board = (props: Props) => {
       {error && (
         <Center width="90%">
           <Text fontSize="18px" fontWeight="700" pt="20px" color="primary.light">
-            {trans.errors?.[error]}
+            {{ ...(trans.errors as any) }?.[error]}
           </Text>
         </Center>
       )}
