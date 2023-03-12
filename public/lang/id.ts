@@ -12,7 +12,7 @@ export default {
       'snaptik1click.com adalah downloader TikTok yang mudah digunakan dan menghilangkan watermark. Ini hanya memerlukan tautan video dan tidak memerlukan perangkat lunak tambahan. Namun, pengguna harus berhati-hati dan memperoleh izin untuk mengunduh konten. Menggunakan downloader seperti ini dapat melanggar ketentuan layanan TikTok.',
     text3:
       'Anda tidak perlu menginstal perangkat lunak apa pun di komputer atau ponsel Anda. Yang Anda butuhkan hanyalah tautan video TikTok, dan semua proses pengolahan dilakukan di sisi kami sehingga Anda hanya satu klik jauhnya dari mengunduh video ke perangkat Anda.',
-    text4: 'Key features',
+    text4: 'Features',
     feature1:
       'Mendownload video TikTok tanpa watermark: snaptik1click.com memungkinkan Anda untuk mengunduh video TikTok tanpa watermark, sehingga mudah untuk menyimpan dan berbagi video tanpa gangguan.',
     feature2:
@@ -147,7 +147,6 @@ export default {
     a12: 'Pilih video apa saja yang ingin Anda unduh.',
     a13: 'Klik tombol Bagikan di bagian bawah kanan.',
     a14: 'Klik tombol Salin Tautan.',
-    a15: 'Unduh menggunakan browser Anda: Saya ingin memudahkan Anda. Tidak perlu mengunduh atau menginstal perangkat lunak apa pun. Saya membuat aplikasi untuk tujuan ini juga tetapi Anda hanya dapat menginstal kapan saja.',
     a16: 'Kembali ke snaptik1click.com dan tempelkan tautan unduhan Anda ke bidang di atas lalu klik tombol Unduh.',
     a17: 'Tunggu server kami menyelesaikan tugasnya dan kemudian simpan video ke perangkat Anda.',
     q2: 'Bagaimana cara mendapatkan tautan unduhan video TikTok?',

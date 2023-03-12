@@ -145,16 +145,6 @@ export default function Home() {
                       fontWeight="500"
                       color={textColor}
                     >
-                      {trans.questions.a15}
-                    </Text>
-                  </ListItem>
-                  <ListItem>
-                    <Text
-                      className={openSans.className}
-                      fontSize="18px"
-                      fontWeight="500"
-                      color={textColor}
-                    >
                       {trans.questions.a16}
                     </Text>
                   </ListItem>

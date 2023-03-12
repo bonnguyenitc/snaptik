@@ -12,7 +12,7 @@ export default {
       "snaptik1click.com is a user-friendly TikTok downloader that removes watermarks with a click. It requires only a video link and no additional software. However, users should be cautious and obtain permission to download content. Using such downloaders may violate TikTok's terms of service.",
     text3:
       'You are not required to install any software on your computer or mobile phone, all that you need is a TikTok video link, and all the processing is done on our side so you can be one click away from downloading videos to your devices.',
-    text4: 'Key features',
+    text4: 'Features',
     feature1:
       'Download TikTok videos without a watermark: snaptik1click.com allows you to download TikTok videos without any watermark, making it easy to save and share videos without any distractions.',
     feature2:
@@ -30,13 +30,13 @@ export default {
     terms: 'Terms of Service',
     privacy: 'Privacy Policy',
     howToUse: {
-      title: 'How to Use',
-      step1: 'Find the TikTok video that you want to download.',
+      title: 'Easy to use',
+      step1: 'Find the tiktok video that you want to download.',
       step2: 'Copy the link to the video.',
-      step3: "Paste the link to the TikTok video into the website's download box.",
+      step3: "Paste the link to the tiktok video into the website's download box.",
       step4: 'Click the "Download" button.',
       step5: 'Wait for the website to process the video and remove the watermark.',
-      step6: 'Download the video to your device.',
+      step6: 'Download the video to your device auto.',
     },
   },
   meta: {
@@ -146,14 +146,13 @@ export default {
     a11: 'Open Tik Tok app on your phone/or Web on your browser.',
     a12: 'Choose whatever video you want to download.',
     a13: 'Click to the Share button at the right bottom.',
-    a14: 'Click the Copy Link button.',
-    a15: 'Download by using your browsers: I want to keep things simple for you. No need to download or install any software. I make an application for this purpose as well but you can only install whenever you like.',
-    a16: 'Go back to snaptik1click.com and paste your download link to the field above then click to the Download button.',
-    a17: 'Wait for our server to do its job and then, save the video to your device.',
+    a14: 'Click the Copy link button or input box on browser.',
+    a16: 'Go back to snaptik1click.com and paste your download link to the field beside then click to the Download button.',
+    a17: 'Wait for our server to do its job and then, save the video to your device auto.',
     q2: 'How to get the TikTok video download link?',
     a21: 'Open your TikTok application',
     a22: 'Choose the TikTok video that you want to download',
-    a23: 'Click Share and at the Share options, find Copy Link button',
+    a23: 'Click Share and at the Share options, find Copy link button',
     a24: 'Your download URL is ready on the clipboard.',
   },
 };

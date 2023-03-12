@@ -148,7 +148,6 @@ export default {
     a12: 'Escolha qualquer vídeo que você queira baixar.',
     a13: 'Clique no botão Compartilhar na parte inferior direita.',
     a14: 'Clique no botão Copiar Link.',
-    a15: 'Baixe usando seu navegador: Eu quero manter as coisas simples para você. Não é necessário baixar ou instalar nenhum software. Eu criei um aplicativo para este propósito também, mas você só pode instalá-lo quando quiser.',
     a16: "Volte para o snaptik1click.com e cole seu link de download no campo acima e clique no botão Download.'",
     a17: "Aguarde nosso servidor fazer o trabalho e, em seguida, salve o vídeo em seu dispositivo.'",
     q2: 'Como obter o link de download do vídeo do TikTok?',
