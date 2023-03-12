@@ -37,7 +37,10 @@ export const openSans = Open_Sans({
 });
 
 export const keywords = [
-  'video tiktok',
+  'snaptik',
+  'snaptikapp',
+  'snaptik.app',
+  'download video tiktok',
   'tải video tiktok',
   'tai video tiktok',
   'TikTok video downloader',
@@ -62,7 +65,6 @@ export const keywords = [
   'How to download TikTok videos',
   'TikTok video download tutorial',
   'TikTok video downloader for Mac',
-  'download video tiktok',
   'video tiktok no logo, watermark',
   'tai video tiktok khong logo, watermark',
   'tải video tiktok không logo',
@@ -108,7 +110,6 @@ export const keywords = [
   'baixar tiktok para celular',
   'tiktok download gratuito',
   'unduh video tiktok',
-  'download video tiktok',
   'simpan video tiktok',
   'ambil video tiktok',
   'dapatkan video tiktok',
@@ -124,4 +125,15 @@ export const keywords = [
   'website download video tiktok',
   'unduh video tiktok terbaru',
   'unduh video tiktok viral',
+  'tải video TikTok không có logo',
+  'tai video TikTok khong co logo',
+  'tải video TikTok nhanh',
+  'tai video TikTok nhanh',
+  'cách tải video TikTok trên điện thoại di động',
+  'cach tai video TikTok tren dien thoai di dong',
+  'tải video TikTok với chất lượng cao',
+  'tai video TikTok voi chat luong cao',
+  'tải video TikTok dễ dàng',
+  'tải video TikTok không cần đăng ký',
+  'tai video TikTok khong can đang ky',
 ];
