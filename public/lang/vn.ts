@@ -1,28 +1,28 @@
 export default {
   home: {
-    title: 'Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
-    languages: 'Languages',
-    name: 'Trình tải TikTok Video với 1 Click',
-    sologon: 'Không Logo. Nhanh chống. Bất kỳ lúc nào ở đâu',
+    title: 'Tiktok Downloader - Tải video Tiktok không logo với 1 Click - SnapTik1Click',
+    languages: 'Ngôn ngữ',
+    name: 'Công cụ tải TikTok Video với 1 Click',
+    sologon: 'Không logo. Nhanh chống. Bất kỳ lúc nào ở đâu',
     paste: 'Dán',
     clear: 'Xoá',
     download: 'Tải xuống',
-    text1: 'Tải TikTok videos không Logo với 1 Click For FREE FOREVER',
+    text1: 'Tải TikTok videos không logo với 1 Click For FREE FOREVER',
     text2:
-      'SnapTik1Click.App là một trình tải xuống TikTok thân thiện với người dùng, loại bỏ Logo. Nó chỉ yêu cầu một đường link video và không cần phần mềm bổ sung. Tuy nhiên, người dùng nên cẩn trọng và có được sự cho phép trước khi tải xuống nội dung. Sử dụng các trình tải xuống như vậy có thể vi phạm các điều khoản dịch vụ của TikTok.',
+      'SnapTik1Click.App là một trình tải xuống TikTok thân thiện với người dùng, loại bỏ logo, watermark. Nó chỉ yêu cầu một đường link video và không cần phần mềm bổ sung. Tuy nhiên, người dùng nên cẩn trọng và có được sự cho phép trước khi tải xuống nội dung. Sử dụng các trình tải xuống như vậy có thể vi phạm các điều khoản dịch vụ của TikTok.',
     text3:
-      'Bạn không cần phải cài đặt bất kỳ phần mềm nào trên máy tính hoặc điện thoại di động của mình. Tất cả những gì bạn cần là một đường link đến video TikTok, và toàn bộ quá trình xử lý được thực hiện trên phía của chúng tôi. Điều này giúp bạn chỉ cần nhấp chuột một lần để tải xuống video về thiết bị của mình.',
+      'Bạn không cần phải cài đặt bất kì phần mềm nào trên máy tính hoặc điện thoại di động của mình. Tất cả những gì bạn cần là một đường link đến video TikTok và toàn bộ quá trình xử lý được thực hiện trên phía của SnapTik1Click. Điều này giúp bạn chỉ cần nhấp chuột một lần để tải xuống video về thiết bị của mình.',
     text4: 'Chức năng chính',
     feature1:
-      'Sử dụng công cụ của chúng tôi, bạn có thể tải xuống video TikTok chất lượng cao và không có watermark, logo, điều mà hầu hết các công cụ khác không thể cung cấp được.',
+      'Tải xuống video TikTok không có watermark: SnapTik1Click.App cho phép bạn tải xuống video TikTok mà không có bất kỳ watermark nào, giúp bạn dễ dàng lưu trữ và chia sẻ video mà không bị làm phiền.',
     feature2:
-      'Dễ dàng tải xuống các video TikTok và Musically trên bất kỳ thiết bị nào - điện thoại di động, máy tính hoặc máy tính bảng. Tránh watermark, logo xuất hiện trong các video được tải xuống bằng các công cụ khác vì TikTok chỉ cho phép tải xuống qua ứng dụng của họ, điều này sẽ gắn thêm watermark, logo vào video tải xuống.',
+      'Giao diện thân thiện với người dùng: Website có giao diện đơn giản và trực quan giúp người dùng dễ sử dụng, ngay cả đối với những người không rành về công nghệ.',
     feature3:
-      'Tải xuống video TikTok và Musically trực tiếp từ trình duyệt của bạn mà không cần phải cài đặt bất kỳ phần mềm bổ sung nào. Chúng tôi luôn cố gắng cung cấp một trải nghiệm mượt mà cho người dùng của mình, giúp quá trình tải xuống trở nên đơn giản và dễ dàng nhất có thể.',
+      'Không cần phần mềm bổ sung: SnapTik1Click.App là ứng dụng trực tuyến, nghĩa là bạn không cần phải cài đặt bất kỳ phần mềm bổ sung nào trên máy tính hoặc điện thoại di động của mình.',
     feature4:
-      'Dịch vụ của chúng tôi hoàn toàn miễn phí. Chúng tôi chỉ hiển thị quảng cáo để hỗ trợ việc bảo trì và phát triển nền tảng của chúng tôi.',
+      'Nhanh chóng và hiệu quả: Website được thiết kế để xử lý và tải xuống video nhanh chóng, giúp bạn tiết kiệm thời gian và có được những video TikTok yêu thích của mình chỉ trong vài cú nhấp chuột.',
     feature5:
-      'Với SnapTik1Click mới, bạn có thể dễ dàng tải xuống video trình diễn hình ảnh của TikTok dưới định dạng video MP4. Công cụ của chúng tôi sẽ tự động kết hợp các hình ảnh và âm nhạc trong trình diễn hình ảnh để mang lại trải nghiệm xem video liền mạch. Ngoài ra, bạn còn có thể tải xuống từng hình ảnh trong trình diễn hình ảnh trực tiếp vào máy tính của mình một cách nhanh chóng. Tận hưởng sự tiện dụng và linh hoạt của SnapTik1Click cho tất cả nhu cầu tải xuống TikTok của bạn.',
+      'Miễn phí vĩnh viễn: SnapTik1Click.App hoàn toàn miễn phí sử dụng và không có bất kỳ khoản phí hoặc chi phí ẩn nào. Bạn có thể tải xuống bao nhiêu video mà bạn muốn, không có bất kỳ hạn chế nào.',
     note: 'Note:',
     noteContent:
       'SnapTik1Click là một nền tảng độc lập và không có liên kết với Tiktok hoặc ByteDance Ltd. Nền tảng của chúng tôi được thiết kế để cung cấp một cách thức không phức tạp để người dùng Tiktok có thể tải xuống video mà không có bất kỳ dấu hiệu chứa watermark hay logo. Chúng tôi cam kết cung cấp trải nghiệm người dùng tốt nhất và luôn cập nhật dịch vụ của mình để đảm bảo tải xuống dễ dàng và hiệu quả. Nếu bạn đã gặp vấn đề với các trang web khác như Tikmate hoặc SSSTiktok, hãy thử SnapTik1Click của chúng tôi. Nền tảng của chúng tôi luôn miễn phí để sử dụng và chúng tôi dựa vào quảng cáo để hỗ trợ bảo trì và phát triển dịch vụ của mình. Cảm ơn bạn đã lựa chọn SnapTik1Click để tải xuống video Tiktok của bạn.',
@@ -40,29 +40,29 @@ export default {
     },
   },
   meta: {
-    title: 'Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
-    itemprop: 'Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
+    title: 'Tiktok Downloader - Tải video TikTok không logo với 1 click - SnapTik1Click',
+    itemprop: 'Tiktok Downloader - Tải video TikTok không logo với 1 click - SnapTik1Click',
     description:
-      'TikTok Video Downloader - SnapTik1Click.App is one of the best free Download video Tiktok No Watermark tool available online. You can download TikTok video from any device you have.',
-    twitterTitle: 'Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
+      'TikTok Video Downloader - SnapTik1Click.App là 1 công cụ tải video TikTok tốt nhất hiện nay. Bạn có thể tải xuống video bất kỳ ở đâu bạn muốn trên cả máy tính và smartphone',
+    twitterTitle: 'Tiktok Downloader - Tải video TikTok không logo với 1 click - SnapTik1Click',
     twitterDescription:
-      'ikTok Video Downloader - SnapTik1Click.App is one of the best free Download video Tiktok No Watermark tool available online. You can download TikTok video from any device you have.',
-    ogTitle: 'Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
+      'TikTok Video Downloader - SnapTik1Click.App là 1 công cụ tải video TikTok tốt nhất hiện nay. Bạn có thể tải xuống video bất kỳ ở đâu bạn muốn trên cả máy tính và smartphone',
+    ogTitle: 'Tiktok Downloader - Tải video TikTok không logo với 1 click - SnapTik1Click',
     ogDescription:
-      'TikTok Video Downloader - SnapTik1Click.App is one of the best free Download video Tiktok No Watermark tool available online. You can download TikTok video from any device you have.',
-    ogSiteName: 'Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
+      'TikTok Video Downloader - SnapTik1Click.App là 1 công cụ tải video TikTok tốt nhất hiện nay. Bạn có thể tải xuống video bất kỳ ở đâu bạn muốn trên cả máy tính và smartphone',
+    ogSiteName: 'Tiktok Downloader - Tải video TikTok không logo với 1 click - SnapTik1Click',
   },
   contact: {
     short: 'Contact',
-    title: 'Contact - TikTok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
-    description1: 'To contact SnapTik1Click.App, you can send an email to ',
+    title: 'Liên hệ - Tiktok Downloader - Tải video TikTok không logo với 1 click - SnapTik1Click',
+    description1: 'Để liên hệ với SnapTik1Click.App, bạn vui lòng gởi mail đến ',
     description2:
-      'If you have any questions, concerns, or feedback about our TikTok downloader, our team is always here to help. Simply send us an email, and we will do our best to provide you with the information or assistance you need as quickly as possible. We value your input and strive to continually improve our services to meet your needs.',
+      'Nếu bạn có bất kỳ câu hỏi, quan ngại hoặc phản hồi về trình tải TikTok của chúng tôi, đội ngũ của chúng tôi luôn sẵn sàng giúp đỡ. Chỉ cần gửi email cho chúng tôi, và chúng tôi sẽ cố gắng cung cấp cho bạn thông tin hoặc hỗ trợ bạn cần càng nhanh càng tốt. Chúng tôi trân trọng đóng góp của bạn và luôn cố gắng cải thiện dịch vụ của mình để đáp ứng nhu cầu của bạn.',
   },
-  pravicy: {
+  privacy: {
     short: 'Privacy Policy - SnapTik1Click',
     title:
-      'Privacy Policy - TikTok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
+      'Chính sách bảo mật chỉ English - TikTok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
     h1: 'Personal identification information',
     d1: 'Users have the option to visit SnapTik1Click App anonymously, and we do not record any identifying information unless provided voluntarily. Users may decline to supply personal identification information, but are responsible for ensuring any information provided is accurate and truthful. SnapTik1Click is not liable for any false or misleading information provided by Users. If such incidents are discovered, access to SnapTik1Click App and Services may be revoked.',
     h2: 'Advertising',
@@ -75,7 +75,7 @@ export default {
   terms: {
     short: 'Terms of Service - SnapTik1Click',
     title:
-      'Terms of Service - TikTok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
+      'Điều khoản sử dụng chỉ English - TikTok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
     h1: 'Acceptance of Terms of Service',
     d1: 'By accessing and using our application and website, you signify your acceptance of our policy and ToS, including the updated versions. If you do not agree with any content, please do not use our application and website.',
     h2: 'Who may use our Services (User)',
@@ -133,10 +133,9 @@ export default {
     d9: 'SnapTik1Click reserves the right to amend these Terms of Service at any time, and will provide notice of any changes through various means such as posting on the main page of the Website, notification upon login to your User Account, or by email to the address provided during account setup. Any updates to the Terms of Service will be reflected at the top of the terms. As a User, it is your responsibility to review and fully understand any updates to the Terms of Service before accessing or using our Services. Failure to maintain accurate or current contact information in your User Account does not exempt you from complying with the amended Terms of Service. The use of contact information or identifications of others is considered fraudulent and will result in account deactivation.',
   },
   errors: {
-    HAVE_ERROR:
-      'Sorry, we encountered an issue. Please try again later. Thank you for your patience.',
+    HAVE_ERROR: "Xin lỗi, chúng tôi đã gặp sự cố. Vui lòng thử lại sau. Cảm ơn bạn đã kiên nhẫn.'",
     NOT_A_LINK_TIKTOK:
-      'Sorry, the provided URL is not a valid TikTok URL. Please provide a valid TikTok URL to proceed.',
+      'Xin lỗi, URL được cung cấp không phải là URL TikTok hợp lệ. Vui lòng cung cấp một URL TikTok hợp lệ để tiếp tục.',
   },
   form: {
     placeholder: 'Dán liên kết video của bản vào đây',

@@ -1,68 +1,69 @@
 export default {
   home: {
-    title: 'Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
-    languages: 'Languages',
-    name: 'TikTok Video Download With 1 Click',
-    sologon: 'Without Watermark. Fastest. Any where',
-    paste: 'Paste',
-    clear: 'Clear',
+    title: "Tiktok Downloader - Baixar vídeo do TikTok sem marca d'água. - SnapTik1Click",
+    languages: 'Línguas.',
+    name: 'Download de vídeo do TikTok com apenas 1 clique.',
+    sologon: "Sem marca d'água. O mais rápido. Em qualquer lugar.",
+    paste: 'Colar.',
+    clear: 'Limpar.',
     download: 'Download',
-    text1: 'Download TikTok videos Without Watermark With 1 Click For FREE FOREVER',
+    text1: "Baixe vídeos do TikTok sem marca d'água com apenas 1 clique GRATUITAMENTE PARA SEMPRE.",
     text2:
-      "SnapTik1Click.App is a user-friendly TikTok downloader that removes watermarks. It requires only a video link and no additional software. However, users should be cautious and obtain permission to download content. Using such downloaders may violate TikTok's terms of service.",
+      "O SnapTik1Click.App é um downloader amigável do TikTok que remove marcas d'água. Ele requer apenas um link de vídeo e nenhum software adicional. No entanto, os usuários devem ser cautelosos e obter permissão para baixar o conteúdo. O uso desses tipos de downloaders pode violar os termos de serviço do TikTok.",
     text3:
-      'You are not required to install any software on your computer or mobile phone, all that you need is a TikTok video link, and all the processing is done on our side so you can be one click away from downloading videos to your devices.',
-    text4: 'Key features',
+      'Você não precisa instalar nenhum software em seu computador ou celular, tudo o que você precisa é de um link de vídeo do TikTok, e todo o processamento é feito em nosso lado, para que você possa estar a um clique de baixar vídeos em seus dispositivos.',
+    text4: 'Principais recursos.',
     feature1:
-      'Get better quality TikTok videos without a watermark with our tool, which most other tools cannot provide.',
+      "Para baixar vídeos do TikTok sem marca d'água: o SnapTik1Click.App permite que você baixe vídeos do TikTok sem qualquer marca d'água, tornando fácil salvar e compartilhar vídeos sem distrações.",
     feature2:
-      'Easily download TikTok and Musically videos on any device - mobile, PC, or tablet. Avoid watermarks that are present in downloaded videos using other tools as TikTok only allows downloads via their application which includes watermarks.',
+      'Interface amigável: o site possui uma interface simples e intuitiva que torna fácil de usar, mesmo para usuários que não são especialistas em tecnologia.',
     feature3:
-      'Download TikTok and Musically videos directly from your browser without the hassle of installing any additional software. We strive to provide a seamless experience for our users, making the process as simple and effortless as possible.',
+      'Nenhum software adicional é necessário: o SnapTik1Click.App é um aplicativo baseado na web, o que significa que você não precisa instalar nenhum software adicional em seu computador ou telefone celular.',
     feature4:
-      'Our service is completely free of charge. We only display ads to support the maintenance and development of our platform.',
+      'Rápido e eficiente: o site é projetado para processar e baixar vídeos rapidamente, para que você possa economizar tempo e obter seus vídeos favoritos do TikTok em apenas alguns cliques.',
     feature5:
-      "With the new SnapTik1Click, you can easily download TikTok's photo slide show in MP4 video format. Our tool will automatically merge the images and music from the slide show for a seamless viewing experience. Plus, you can quickly download each image in the slide show directly to your computer. Enjoy the convenience and versatility of SnapTik1Click for all your TikTok downloading needs.",
-    note: 'Note:',
+      'Grátis para sempre: o SnapTik1Click.App é completamente gratuito para usar, e não há taxas ou cobranças ocultas. Você pode baixar quantos vídeos quiser, sem limitações.',
+    note: 'Nota:',
     noteContent:
-      'SnapTik1Click is an independent platform that is not affiliated with Tiktok or ByteDance Ltd. Our platform is designed to provide a hassle-free way for Tiktok users to download videos without any watermark or logo. We are committed to offering the best user experience and constantly updating our services to ensure easy and efficient downloads. If you have encountered any issues with other sites such as Tikmate or SSSTiktok, give SnapTik1Click a try. Our platform is always free to use and we rely on ads to support the maintenance and further development of our services. Thank you for choosing SnapTik1Click for your Tiktok video downloads.',
-    contact: 'Contact',
-    terms: 'Terms of Service',
-    privacy: 'Privacy Policy',
+      "O SnapTik1Click é uma plataforma independente e não está afiliado ao TikTok ou à ByteDance Ltd. Nossa plataforma foi projetada para fornecer uma maneira sem complicações para usuários do TikTok baixarem vídeos sem nenhuma marca d'água ou logotipo. Estamos comprometidos em oferecer a melhor experiência do usuário e atualizar constantemente nossos serviços para garantir downloads fáceis e eficientes. Se você encontrou problemas em outros sites, como Tikmate ou SSSTiktok, experimente o SnapTik1Click. Nossa plataforma é sempre gratuita e contamos com anúncios para apoiar a manutenção e o desenvolvimento de nossos serviços. Obrigado por escolher o SnapTik1Click para seus downloads de vídeos do TikTok.",
+    contact: 'Contato',
+    terms: 'Termos de Serviço',
+    privacy: 'Política de Privacidade',
     howToUse: {
-      title: 'How to Use',
-      step1: 'Find the TikTok video that you want to download.',
-      step2: 'Copy the link to the video.',
-      step3: "Paste the link to the TikTok video into the website's download box.",
-      step4: 'Click the "Download" button.',
-      step5: 'Wait for the website to process the video and remove the watermark.',
-      step6: 'Download the video to your device.',
+      title: 'Como usar',
+      step1: 'Encontre o vídeo do TikTok que você deseja baixar.',
+      step2: 'Copie o link para o vídeo.',
+      step3: 'Cole o link do vídeo do TikTok na caixa de download do site.',
+      step4: 'Clique no botão "Download".',
+      step5: "Aguarde o site processar o vídeo e remover a marca d'água.",
+      step6: 'Baixe o vídeo para o seu dispositivo.',
     },
   },
   meta: {
-    title: 'Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
-    itemprop: 'Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
+    title: "Tiktok Downloader - Baixar vídeo do TikTok sem marca d'água. - SnapTik1Click",
+    itemprop: "Tiktok Downloader - Baixar vídeo do TikTok sem marca d'água. - SnapTik1Click",
     description:
-      'TikTok Video Downloader - SnapTik1Click.App is one of the best free Download video Tiktok No Watermark tool available online. You can download TikTok video from any device you have.',
-    twitterTitle: 'Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
+      "TikTok Video Downloader - SnapTik1Click.App é uma das melhores ferramentas gratuitas de download de vídeos do TikTok sem marca d'água disponíveis on-line. Você pode baixar vídeos do TikTok de qualquer dispositivo que você tenha.",
+    twitterTitle: "Tiktok Downloader - Baixar vídeo do TikTok sem marca d'água. - SnapTik1Click",
     twitterDescription:
-      'ikTok Video Downloader - SnapTik1Click.App is one of the best free Download video Tiktok No Watermark tool available online. You can download TikTok video from any device you have.',
-    ogTitle: 'Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
+      "TikTok Video Downloader - SnapTik1Click.App é uma das melhores ferramentas gratuitas de download de vídeos do TikTok sem marca d'água disponíveis on-line. Você pode baixar vídeos do TikTok de qualquer dispositivo que você tenha.",
+    ogTitle: "Tiktok Downloader - Baixar vídeo do TikTok sem marca d'água. - SnapTik1Click",
     ogDescription:
-      'TikTok Video Downloader - SnapTik1Click.App is one of the best free Download video Tiktok No Watermark tool available online. You can download TikTok video from any device you have.',
-    ogSiteName: 'Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
+      "TikTok Video Downloader - SnapTik1Click.App é uma das melhores ferramentas gratuitas de download de vídeos do TikTok sem marca d'água disponíveis on-line. Você pode baixar vídeos do TikTok de qualquer dispositivo que você tenha.",
+    ogSiteName: "Tiktok Downloader - Baixar vídeo do TikTok sem marca d'água. - SnapTik1Click",
   },
   contact: {
     short: 'Contact',
-    title: 'Contact - TikTok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
-    description1: 'To contact SnapTik1Click.App, you can send an email to ',
+    title: "Contato - TikTok Downloader - Baixar vídeo do TikTok sem marca d'água. - SnapTik1Click",
+    description1:
+      'Para entrar em contato com o SnapTik1Click.App, você pode enviar um e-mail para ',
     description2:
-      'If you have any questions, concerns, or feedback about our TikTok downloader, our team is always here to help. Simply send us an email, and we will do our best to provide you with the information or assistance you need as quickly as possible. We value your input and strive to continually improve our services to meet your needs.',
+      'Se você tiver alguma dúvida, preocupação ou feedback sobre nosso downloader do TikTok, nossa equipe está sempre aqui para ajudar. Basta enviar um e-mail e faremos o possível para fornecer as informações ou assistência necessárias o mais rápido possível. Valorizamos sua contribuição e nos esforçamos para melhorar continuamente nossos serviços para atender às suas necessidades.',
   },
-  pravicy: {
+  privacy: {
     short: 'Privacy Policy - SnapTik1Click',
     title:
-      'Privacy Policy - TikTok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
+      "Política de Privacidade - TikTok Downloader - Baixar vídeo do TikTok sem marca d'água. - SnapTik1Click",
     h1: 'Personal identification information',
     d1: 'Users have the option to visit SnapTik1Click App anonymously, and we do not record any identifying information unless provided voluntarily. Users may decline to supply personal identification information, but are responsible for ensuring any information provided is accurate and truthful. SnapTik1Click is not liable for any false or misleading information provided by Users. If such incidents are discovered, access to SnapTik1Click App and Services may be revoked.',
     h2: 'Advertising',
@@ -75,7 +76,7 @@ export default {
   terms: {
     short: 'Terms of Service - SnapTik1Click',
     title:
-      'Terms of Service - TikTok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
+      "Termos de Serviço - TikTok Downloader - Baixar vídeo do TikTok sem marca d'água. - SnapTik1Click",
     h1: 'Acceptance of Terms of Service',
     d1: 'By accessing and using our application and website, you signify your acceptance of our policy and ToS, including the updated versions. If you do not agree with any content, please do not use our application and website.',
     h2: 'Who may use our Services (User)',
@@ -134,9 +135,9 @@ export default {
   },
   errors: {
     HAVE_ERROR:
-      'Sorry, we encountered an issue. Please try again later. Thank you for your patience.',
+      'Desculpe, encontramos um problema. Por favor, tente novamente mais tarde. Obrigado pela sua paciência.',
     NOT_A_LINK_TIKTOK:
-      'Sorry, the provided URL is not a valid TikTok URL. Please provide a valid TikTok URL to proceed.',
+      'Desculpe, o URL fornecido não é um URL válido do TikTok. Por favor, forneça um URL válido do TikTok para continuar.',
   },
   form: {
     placeholder: 'Paste your video link here',

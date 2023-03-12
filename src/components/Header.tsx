@@ -22,17 +22,17 @@ const Header = ({ title }: Props) => {
       <meta name="description" content={trans.meta.description} />
       <meta name="author" content="Admin" />
       <meta property="og:locale" content={router.locale} />
-      <meta itemProp="image" content="/snapthumb.webp" />
+      <meta itemProp="image" content="/snapthumb.png" />
       <meta name="twitter:card" content="summary" />
       <meta name="twitter:title" content={trans.meta.twitterTitle} />
       <meta name="twitter:description" content={trans.meta.twitterDescription} />
-      <meta name="twitter:image:src" content="/snapthumb.webp" />
+      <meta name="twitter:image:src" content="/snapthumb.png" />
       <meta property="og:title" content={trans.meta.ogTitle} />
       <meta property="og:type" content="article" />
-      <meta property="og:image" content="/snapthumb.webp" />
+      <meta property="og:image" content="/snapthumb.png" />
       <meta property="og:description" content={trans.meta.ogDescription} />
       <meta property="og:site_name" content={trans.meta.ogSiteName} />
-      <link rel="apple-touch-icon" sizes="192x192" href="/snapthumb.webp" />
+      <link rel="apple-touch-icon" sizes="192x192" href="/snapthumb.png" />
       <link rel="shortcut icon" href="/favicon.webp" />
       <meta name="google" content="notranslate" />
       <link rel="alternate" hrefLang="x-default" href={process.env.NEXT_PUBLIC_DOMAIN} />
