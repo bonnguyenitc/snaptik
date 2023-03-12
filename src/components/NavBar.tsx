@@ -58,7 +58,7 @@ const NavBar = (props: Props) => {
             fontWeight="bold"
             color={textColor}
           >
-            Tik 1 Click
+            Tik1Click
           </Heading>
         </Box>
       </Link>

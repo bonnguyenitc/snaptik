@@ -94,10 +94,10 @@ export default function Home() {
                     {trans.questions.q1}
                   </Heading>
                 </Box>
-                <AccordionIcon />
+                <AccordionIcon color={textColor} />
               </AccordionButton>
               <AccordionPanel pb={4}>
-                <OrderedList>
+                <OrderedList color={textColor}>
                   <ListItem>
                     <Text
                       className={openSans.className}
@@ -178,10 +178,10 @@ export default function Home() {
                     {trans.questions.q2}
                   </Heading>
                 </Box>
-                <AccordionIcon />
+                <AccordionIcon color={textColor} />
               </AccordionButton>
               <AccordionPanel pb={4}>
-                <OrderedList>
+                <OrderedList color={textColor}>
                   <ListItem>
                     <Text
                       className={openSans.className}
