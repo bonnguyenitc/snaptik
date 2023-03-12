@@ -9,20 +9,20 @@ export default {
     download: 'Download',
     text1: 'Download TikTok videos Without Watermark With 1 Click For FREE FOREVER',
     text2:
-      "SnapTik2.App is a user-friendly TikTok downloader that removes watermarks with a click. It requires only a video link and no additional software. However, users should be cautious and obtain permission to download content. Using such downloaders may violate TikTok's terms of service.",
+      "snaptik1click.com is a user-friendly TikTok downloader that removes watermarks with a click. It requires only a video link and no additional software. However, users should be cautious and obtain permission to download content. Using such downloaders may violate TikTok's terms of service.",
     text3:
       'You are not required to install any software on your computer or mobile phone, all that you need is a TikTok video link, and all the processing is done on our side so you can be one click away from downloading videos to your devices.',
     text4: 'Key features',
     feature1:
-      'Download TikTok videos without a watermark: SnapTik2.App allows you to download TikTok videos without any watermark, making it easy to save and share videos without any distractions.',
+      'Download TikTok videos without a watermark: snaptik1click.com allows you to download TikTok videos without any watermark, making it easy to save and share videos without any distractions.',
     feature2:
       'User-friendly interface: The website has a simple and intuitive interface that makes it easy to use, even for users who are not tech-savvy.',
     feature3:
-      'No additional software required: SnapTik2.App is a web-based application, which means you do not need to install any additional software on your computer or mobile phone.',
+      'No additional software required: snaptik1click.com is a web-based application, which means you do not need to install any additional software on your computer or mobile phone.',
     feature4:
       'Fast and efficient: The website is designed to process and download videos quickly, so you can save time and get your favorite TikTok videos in just a few clicks.',
     feature5:
-      'Free forever: SnapTik2.App is completely free to use, and there are no hidden fees or charges. You can download as many videos as you want, without any limitations.',
+      'Free forever: snaptik1click.com is completely free to use, and there are no hidden fees or charges. You can download as many videos as you want, without any limitations.',
     note: 'Note:',
     noteContent:
       'SnapTik1Click is an independent platform that is not affiliated with Tiktok or ByteDance Ltd. Our platform is designed to provide a hassle-free way for Tiktok users to download videos without any watermark or logo. We are committed to offering the best user experience and constantly updating our services to ensure easy and efficient downloads. If you have encountered any issues with other sites such as Tikmate or SSSTiktok, give SnapTik1Click a try. Our platform is always free to use and we rely on ads to support the maintenance and further development of our services. Thank you for choosing SnapTik1Click for your Tiktok video downloads.',
@@ -43,19 +43,19 @@ export default {
     title: 'Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
     itemprop: 'Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
     description:
-      'TikTok Video Downloader - SnapTik2.App is one of the best free Download video Tiktok No Watermark tool available online. You can download TikTok video from any device you have.',
+      'TikTok Video Downloader - snaptik1click.com is one of the best free Download video Tiktok No Watermark tool available online. You can download TikTok video from any device you have.',
     twitterTitle: 'Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
     twitterDescription:
-      'TikTok Video Downloader - SnapTik2.App is one of the best free Download video Tiktok No Watermark tool available online. You can download TikTok video from any device you have.',
+      'TikTok Video Downloader - snaptik1click.com is one of the best free Download video Tiktok No Watermark tool available online. You can download TikTok video from any device you have.',
     ogTitle: 'Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
     ogDescription:
-      'TikTok Video Downloader - SnapTik2.App is one of the best free Download video Tiktok No Watermark tool available online. You can download TikTok video from any device you have.',
+      'TikTok Video Downloader - snaptik1click.com is one of the best free Download video Tiktok No Watermark tool available online. You can download TikTok video from any device you have.',
     ogSiteName: 'Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
   },
   contact: {
     short: 'Contact',
     title: 'Contact - TikTok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
-    description1: 'To contact SnapTik2.App, you can send an email to ',
+    description1: 'To contact snaptik1click.com, you can send an email to ',
     description2:
       'If you have any questions, concerns, or feedback about our TikTok downloader, our team is always here to help. Simply send us an email, and we will do our best to provide you with the information or assistance you need as quickly as possible. We value your input and strive to continually improve our services to meet your needs.',
   },
@@ -148,7 +148,7 @@ export default {
     a13: 'Click to the Share button at the right bottom.',
     a14: 'Click the Copy Link button.',
     a15: 'Download by using your browsers: I want to keep things simple for you. No need to download or install any software. I make an application for this purpose as well but you can only install whenever you like.',
-    a16: 'Go back to SnapTik2.App and paste your download link to the field above then click to the Download button.',
+    a16: 'Go back to snaptik1click.com and paste your download link to the field above then click to the Download button.',
     a17: 'Wait for our server to do its job and then, save the video to your device.',
     q2: 'How to get the TikTok video download link?',
     a21: 'Open your TikTok application',

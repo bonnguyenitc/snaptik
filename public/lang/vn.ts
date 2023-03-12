@@ -9,20 +9,20 @@ export default {
     download: 'Tải xuống',
     text1: 'Tải video tiktok không logo, watermark với 1 click miễn phí trọn đời',
     text2:
-      'SnapTik2.App là một trình tải video tiktok, không logo, watermark. Bạn chỉ cần dánh link video tiktok cần tải. Tuy nhiên, bạn nên cẩn trọng và có được sự cho phép trước khi tải xuống video tiktok. Sử dụng các trình tải xuống như vậy có thể vi phạm các điều khoản dịch vụ của TikTok.',
+      'snaptik1click.com là một trình tải video tiktok, không logo, watermark. Bạn chỉ cần dánh link video tiktok cần tải. Tuy nhiên, bạn nên cẩn trọng và có được sự cho phép trước khi tải xuống video tiktok. Sử dụng các trình tải xuống như vậy có thể vi phạm các điều khoản dịch vụ của TikTok.',
     text3:
       'Bạn không cần phải cài đặt bất kì phần mềm nào trên máy tính hoặc điện thoại di động của mình. Tất cả những gì bạn cần là một đường link đến video tiktok và toàn bộ quá trình xử lý được thực hiện trên phía của SnapTik1Click. Với một cú nhấp chuột bạn đã tải xuống video về thiết bị của mình.',
     text4: 'Chức năng chính',
     feature1:
-      'Tải xuống video tiktok không có logo, watermark: SnapTik2.App cho phép bạn tải xuống video tiktok mà không logo, watermark, giúp bạn dễ dàng lưu trữ và chia sẻ video',
+      'Tải xuống video tiktok không có logo, watermark: snaptik1click.com cho phép bạn tải xuống video tiktok mà không logo, watermark, giúp bạn dễ dàng lưu trữ và chia sẻ video',
     feature2:
       'Giao diện thân thiện với người dùng: Website có giao diện đơn giản và trực quan giúp người dùng dễ sử dụng, ngay cả đối với những người không rành về công nghệ.',
     feature3:
-      'Không cần phần mềm bổ sung: SnapTik2.App là ứng dụng trực tuyến, nghĩa là bạn không cần phải cài đặt bất kỳ phần mềm bổ sung nào trên máy tính hoặc điện thoại di động của mình.',
+      'Không cần phần mềm bổ sung: snaptik1click.com là ứng dụng trực tuyến, nghĩa là bạn không cần phải cài đặt bất kỳ phần mềm bổ sung nào trên máy tính hoặc điện thoại di động của mình.',
     feature4:
       'Nhanh chóng và hiệu quả: Website được thiết kế để xử lý và tải xuống video nhanh chóng, giúp bạn tiết kiệm thời gian và có được những video TikTok yêu thích của mình chỉ một cú nhấp chuột.',
     feature5:
-      'Miễn phí vĩnh viễn: SnapTik2.App hoàn toàn miễn phí sử dụng và không có bất kỳ khoản phí hoặc chi phí ẩn nào. Bạn có thể tải xuống bao nhiêu video tiktok mà bạn muốn, không có bất kỳ hạn chế nào.',
+      'Miễn phí vĩnh viễn: snaptik1click.com hoàn toàn miễn phí sử dụng và không có bất kỳ khoản phí hoặc chi phí ẩn nào. Bạn có thể tải xuống bao nhiêu video tiktok mà bạn muốn, không có bất kỳ hạn chế nào.',
     note: 'Note:',
     noteContent:
       'SnapTik1Click là một nền tảng độc lập và không có liên kết với Tiktok hoặc ByteDance Ltd. Nền tảng của chúng tôi được thiết kế để cung cấp một cách thức không phức tạp để người dùng Tiktok có thể tải xuống video tiktok mà không có logo, watermark. Chúng tôi cam kết cung cấp trải nghiệm người dùng tốt nhất và luôn cập nhật dịch vụ của mình để đảm bảo tải xuống dễ dàng và hiệu quả. Nếu bạn đã gặp vấn đề với các trang web khác như Tikmate, SnapTik hoặc SSSTiktok, hãy thử SnapTik1Click của chúng tôi. Nền tảng của chúng tôi luôn miễn phí để sử dụng và chúng tôi dựa vào quảng cáo để hỗ trợ bảo trì và phát triển dịch vụ của mình. Cảm ơn bạn đã lựa chọn SnapTik1Click để tải xuống video tiktok của bạn.',
@@ -43,19 +43,19 @@ export default {
     title: 'Tải video tiktok không có logo, watermark miễn phí với 1 click chuột',
     itemprop: 'Tải video tiktok không có logo, watermark miễn phí với 1 click chuột',
     description:
-      'Tải video tiktok không logo, watermark- SnapTik2.App là 1 công cụ tải video tiktok tốt nhất hiện nay. Bạn có thể tải xuống video bất kỳ ở đâu bạn muốn trên cả máy tính và smartphone',
+      'Tải video tiktok không logo, watermark- snaptik1click.com là 1 công cụ tải video tiktok tốt nhất hiện nay. Bạn có thể tải xuống video bất kỳ ở đâu bạn muốn trên cả máy tính và smartphone',
     twitterTitle: 'Tải video tiktok không có logo, watermark miễn phí với 1 click chuột',
     twitterDescription:
-      'Tải video tiktok không logo, watermark - SnapTik2.App là 1 công cụ tải video tiktok tốt nhất hiện nay. Bạn có thể tải xuống video bất kỳ ở đâu bạn muốn trên cả máy tính và smartphone',
+      'Tải video tiktok không logo, watermark - snaptik1click.com là 1 công cụ tải video tiktok tốt nhất hiện nay. Bạn có thể tải xuống video bất kỳ ở đâu bạn muốn trên cả máy tính và smartphone',
     ogTitle: 'Tải video tiktok không có logo, watermark miễn phí với 1 click chuột',
     ogDescription:
-      'Tải video tiktok không logo, watermark - SnapTik2.App là 1 công cụ tải video tiktok tốt nhất hiện nay. Bạn có thể tải xuống video bất kỳ ở đâu bạn muốn trên cả máy tính và smartphone',
+      'Tải video tiktok không logo, watermark - snaptik1click.com là 1 công cụ tải video tiktok tốt nhất hiện nay. Bạn có thể tải xuống video bất kỳ ở đâu bạn muốn trên cả máy tính và smartphone',
     ogSiteName: 'Tải video tiktok không có logo, watermark miễn phí với 1 click chuột',
   },
   contact: {
     short: 'Contact',
     title: 'Liên hệ - Tải video tiktok không có logo, watermark miễn phí với 1 click chuột',
-    description1: 'Để liên hệ với SnapTik2.App, bạn vui lòng gởi mail đến ',
+    description1: 'Để liên hệ với snaptik1click.com, bạn vui lòng gởi mail đến ',
     description2:
       'Nếu bạn có bất kỳ câu hỏi, quan ngại hoặc phản hồi về trình tải TikTok của chúng tôi, đội ngũ của chúng tôi luôn sẵn sàng giúp đỡ. Chỉ cần gửi email cho chúng tôi, và chúng tôi sẽ cố gắng cung cấp cho bạn thông tin hoặc hỗ trợ bạn cần càng nhanh càng tốt. Chúng tôi trân trọng đóng góp của bạn và luôn cố gắng cải thiện dịch vụ của mình để đáp ứng nhu cầu của bạn.',
   },
@@ -146,8 +146,8 @@ export default {
     a12: 'Chọn bất cứ video nào bạn muốn tải xuống.',
     a13: 'Nhấn vào biểu tượng Chia sẻ góc dưới bên phải video',
     a14: 'Nhấn vào tùy chọn Sao chép liên kết.',
-    a15: 'Bạn có thể tải xuống bằng cách sử dụng trình duyệt web SnapTik2.App',
-    a16: 'Quay trở lại SnapTik2.App (Website Tiktok download video) và dán liên kết đến video TikTok của bạn vào trường ở trên, sau đó nhấp vào Nút Download.',
+    a15: 'Bạn có thể tải xuống bằng cách sử dụng trình duyệt web snaptik1click.com',
+    a16: 'Quay trở lại snaptik1click.com (Website Tiktok download video) và dán liên kết đến video TikTok của bạn vào trường ở trên, sau đó nhấp vào Nút Download.',
     a17: 'Đợi máy chủ của chúng tôi thực hiện công việc của mình và sau đó lưu video vào thiết bị của bạn.',
     q2: 'Làm cách nào để có được liên kết video TikTok cần tải?',
     a21: 'Mở ứng dụng TikTokn',

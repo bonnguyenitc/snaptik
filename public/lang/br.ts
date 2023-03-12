@@ -9,20 +9,20 @@ export default {
     download: 'Download',
     text1: "Baixe vídeos do TikTok sem marca d'água com apenas 1 clique GRATUITAMENTE PARA SEMPRE.",
     text2:
-      "O SnapTik2.App é um downloader amigável do TikTok que remove marcas d'água. Ele requer apenas um link de vídeo e nenhum software adicional. No entanto, os usuários devem ser cautelosos e obter permissão para baixar o conteúdo. O uso desses tipos de downloaders pode violar os termos de serviço do TikTok.",
+      "O snaptik1click.com é um downloader amigável do TikTok que remove marcas d'água. Ele requer apenas um link de vídeo e nenhum software adicional. No entanto, os usuários devem ser cautelosos e obter permissão para baixar o conteúdo. O uso desses tipos de downloaders pode violar os termos de serviço do TikTok.",
     text3:
       'Você não precisa instalar nenhum software em seu computador ou celular, tudo o que você precisa é de um link de vídeo do TikTok, e todo o processamento é feito em nosso lado, para que você possa estar a um clique de baixar vídeos em seus dispositivos.',
     text4: 'Principais recursos.',
     feature1:
-      "Para baixar vídeos do TikTok sem marca d'água: o SnapTik2.App permite que você baixe vídeos do TikTok sem qualquer marca d'água, tornando fácil salvar e compartilhar vídeos sem distrações.",
+      "Para baixar vídeos do TikTok sem marca d'água: o snaptik1click.com permite que você baixe vídeos do TikTok sem qualquer marca d'água, tornando fácil salvar e compartilhar vídeos sem distrações.",
     feature2:
       'Interface amigável: o site possui uma interface simples e intuitiva que torna fácil de usar, mesmo para usuários que não são especialistas em tecnologia.',
     feature3:
-      'Nenhum software adicional é necessário: o SnapTik2.App é um aplicativo baseado na web, o que significa que você não precisa instalar nenhum software adicional em seu computador ou telefone celular.',
+      'Nenhum software adicional é necessário: o snaptik1click.com é um aplicativo baseado na web, o que significa que você não precisa instalar nenhum software adicional em seu computador ou telefone celular.',
     feature4:
       'Rápido e eficiente: o site é projetado para processar e baixar vídeos rapidamente, para que você possa economizar tempo e obter seus vídeos favoritos do TikTok em apenas alguns cliques.',
     feature5:
-      'Grátis para sempre: o SnapTik2.App é completamente gratuito para usar, e não há taxas ou cobranças ocultas. Você pode baixar quantos vídeos quiser, sem limitações.',
+      'Grátis para sempre: o snaptik1click.com é completamente gratuito para usar, e não há taxas ou cobranças ocultas. Você pode baixar quantos vídeos quiser, sem limitações.',
     note: 'Nota:',
     noteContent:
       "O SnapTik1Click é uma plataforma independente e não está afiliado ao TikTok ou à ByteDance Ltd. Nossa plataforma foi projetada para fornecer uma maneira sem complicações para usuários do TikTok baixarem vídeos sem nenhuma marca d'água ou logotipo. Estamos comprometidos em oferecer a melhor experiência do usuário e atualizar constantemente nossos serviços para garantir downloads fáceis e eficientes. Se você encontrou problemas em outros sites, como Tikmate ou SSSTiktok, experimente o SnapTik1Click. Nossa plataforma é sempre gratuita e contamos com anúncios para apoiar a manutenção e o desenvolvimento de nossos serviços. Obrigado por escolher o SnapTik1Click para seus downloads de vídeos do TikTok.",
@@ -43,19 +43,20 @@ export default {
     title: "Tiktok Downloader - Baixar vídeo do TikTok sem marca d'água. - SnapTik1Click",
     itemprop: "Tiktok Downloader - Baixar vídeo do TikTok sem marca d'água. - SnapTik1Click",
     description:
-      "TikTok Video Downloader - SnapTik2.App é uma das melhores ferramentas gratuitas de download de vídeos do TikTok sem marca d'água disponíveis on-line. Você pode baixar vídeos do TikTok de qualquer dispositivo que você tenha.",
+      "TikTok Video Downloader - snaptik1click.com é uma das melhores ferramentas gratuitas de download de vídeos do TikTok sem marca d'água disponíveis on-line. Você pode baixar vídeos do TikTok de qualquer dispositivo que você tenha.",
     twitterTitle: "Tiktok Downloader - Baixar vídeo do TikTok sem marca d'água. - SnapTik1Click",
     twitterDescription:
-      "TikTok Video Downloader - SnapTik2.App é uma das melhores ferramentas gratuitas de download de vídeos do TikTok sem marca d'água disponíveis on-line. Você pode baixar vídeos do TikTok de qualquer dispositivo que você tenha.",
+      "TikTok Video Downloader - snaptik1click.com é uma das melhores ferramentas gratuitas de download de vídeos do TikTok sem marca d'água disponíveis on-line. Você pode baixar vídeos do TikTok de qualquer dispositivo que você tenha.",
     ogTitle: "Tiktok Downloader - Baixar vídeo do TikTok sem marca d'água. - SnapTik1Click",
     ogDescription:
-      "TikTok Video Downloader - SnapTik2.App é uma das melhores ferramentas gratuitas de download de vídeos do TikTok sem marca d'água disponíveis on-line. Você pode baixar vídeos do TikTok de qualquer dispositivo que você tenha.",
+      "TikTok Video Downloader - snaptik1click.com é uma das melhores ferramentas gratuitas de download de vídeos do TikTok sem marca d'água disponíveis on-line. Você pode baixar vídeos do TikTok de qualquer dispositivo que você tenha.",
     ogSiteName: "Tiktok Downloader - Baixar vídeo do TikTok sem marca d'água. - SnapTik1Click",
   },
   contact: {
     short: 'Contact',
     title: "Contato - TikTok Downloader - Baixar vídeo do TikTok sem marca d'água. - SnapTik1Click",
-    description1: 'Para entrar em contato com o SnapTik2.App, você pode enviar um e-mail para ',
+    description1:
+      'Para entrar em contato com o snaptik1click.com, você pode enviar um e-mail para ',
     description2:
       'Se você tiver alguma dúvida, preocupação ou feedback sobre nosso downloader do TikTok, nossa equipe está sempre aqui para ajudar. Basta enviar um e-mail e faremos o possível para fornecer as informações ou assistência necessárias o mais rápido possível. Valorizamos sua contribuição e nos esforçamos para melhorar continuamente nossos serviços para atender às suas necessidades.',
   },
@@ -148,7 +149,7 @@ export default {
     a13: 'Clique no botão Compartilhar na parte inferior direita.',
     a14: 'Clique no botão Copiar Link.',
     a15: 'Baixe usando seu navegador: Eu quero manter as coisas simples para você. Não é necessário baixar ou instalar nenhum software. Eu criei um aplicativo para este propósito também, mas você só pode instalá-lo quando quiser.',
-    a16: "Volte para o SnapTik2.App e cole seu link de download no campo acima e clique no botão Download.'",
+    a16: "Volte para o snaptik1click.com e cole seu link de download no campo acima e clique no botão Download.'",
     a17: "Aguarde nosso servidor fazer o trabalho e, em seguida, salve o vídeo em seu dispositivo.'",
     q2: 'Como obter o link de download do vídeo do TikTok?',
     a21: 'Abra seu aplicativo TikTok',
