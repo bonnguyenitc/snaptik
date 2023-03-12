@@ -69,7 +69,7 @@ export default function index() {
           <Text fontSize="18px" color={textColor} mt="4px" lineHeight="7" textAlign="justify">
             {trans.terms.d5}
           </Text>
-          <UnorderedList>
+          <UnorderedList color={textColor}>
             <ListItem>
               <Text fontSize="18px" color={textColor} mt="4px" lineHeight="7" textAlign="justify">
                 {trans.terms.d5l1}
@@ -98,7 +98,7 @@ export default function index() {
           <Text fontSize="18px" color={textColor} mt="4px" lineHeight="7" textAlign="justify">
             {trans.terms.d51}
           </Text>
-          <UnorderedList>
+          <UnorderedList color={textColor}>
             <ListItem>
               <Text fontSize="18px" color={textColor} mt="4px" lineHeight="7" textAlign="justify">
                 {trans.terms.d52l1}
@@ -142,7 +142,7 @@ export default function index() {
           <Text fontSize="18px" color={textColor} mt="4px" lineHeight="7" textAlign="justify">
             {trans.terms.d53}
           </Text>
-          <UnorderedList>
+          <UnorderedList color={textColor}>
             <ListItem>
               <Text fontSize="18px" color={textColor} mt="4px" lineHeight="7" textAlign="justify">
                 {trans.terms.d53l1}

@@ -4,6 +4,7 @@ import useTrans from '@/hooks/useTrans';
 import {
   Box,
   Button,
+  Flex,
   Heading,
   HStack,
   IconButton,
@@ -159,23 +160,29 @@ const NavBar = (props: Props) => {
         }}
         pb="12px"
       >
-        <Link href="/contact" locale={router.locale}>
-          <Text className={openSans.className} fontSize="sm" color={textColor} fontWeight="600">
-            {trans.home.contact}
-          </Text>
-        </Link>
+        <Flex flex={0.3} justifyContent="center">
+          <Link href="/contact" locale={router.locale}>
+            <Text className={openSans.className} fontSize="sm" color={textColor} fontWeight="600">
+              {trans.home.contact}
+            </Text>
+          </Link>
+        </Flex>
         <Box w="20px" />
-        <Link href="/terms-of-service" locale={router.locale}>
-          <Text className={openSans.className} fontSize="sm" color={textColor} fontWeight="600">
-            {trans.home.terms}
-          </Text>
-        </Link>
+        <Flex flex={0.3} justifyContent="center">
+          <Link href="/terms-of-service" locale={router.locale}>
+            <Text className={openSans.className} fontSize="sm" color={textColor} fontWeight="600">
+              {trans.home.terms}
+            </Text>
+          </Link>
+        </Flex>
         <Box w="20px" />
-        <Link href="/privacy-policy" locale={router.locale}>
-          <Text className={openSans.className} fontSize="sm" color={textColor} fontWeight="600">
-            {trans.home.privacy}
-          </Text>
-        </Link>
+        <Flex flex={0.3} justifyContent="center">
+          <Link href="/privacy-policy" locale={router.locale}>
+            <Text className={openSans.className} fontSize="sm" color={textColor} fontWeight="600">
+              {trans.home.privacy}
+            </Text>
+          </Link>
+        </Flex>
       </HStack>
     </VStack>
   );
