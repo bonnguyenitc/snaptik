@@ -1,6 +1,6 @@
 import { useThemeStore } from '@/stores/useThemeStore';
 import { useTheme } from '@chakra-ui/react';
-import { useCallback, useMemo, useState } from 'react';
+import { useMemo } from 'react';
 
 export const useThemeColor = () => {
   const { isDarkMode, toggleDarkMode } = useThemeStore();
