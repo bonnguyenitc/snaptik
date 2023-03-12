@@ -1,4 +1,18 @@
-import { Box, HStack, ListItem, OrderedList, Text, UnorderedList, VStack } from '@chakra-ui/react';
+import {
+  Accordion,
+  AccordionButton,
+  AccordionIcon,
+  AccordionItem,
+  AccordionPanel,
+  Box,
+  Heading,
+  HStack,
+  ListItem,
+  OrderedList,
+  Text,
+  UnorderedList,
+  VStack,
+} from '@chakra-ui/react';
 import useTrans from '../hooks/useTrans';
 import { useThemeColor } from '@/hooks/useThemeColor';
 import Layout from '@/components/Layout';
@@ -16,9 +30,9 @@ export default function Home() {
     <Layout>
       <Board />
       <VStack bg={navBackgroundColor} w="100%" alignItems="flex-start" px="10%" py="5">
-        <Text className={openSans.className} fontSize="3xl" fontWeight="700" color={textColor}>
+        <Heading className={openSans.className} color={textColor}>
           {trans.home.text1}
-        </Text>
+        </Heading>
         <Text
           className={openSans.className}
           fontSize="16px"
@@ -30,9 +44,9 @@ export default function Home() {
           {trans.home.text3}
         </Text>
         <Box height="16px" />
-        <Text className={openSans.className} fontSize="3xl" fontWeight="700" color={textColor}>
+        <Heading className={openSans.className} color={textColor}>
           {trans.home.howToUse.title}
-        </Text>
+        </Heading>
         <Box pl="2%">
           <OrderedList color={textColor}>
             {steps.map((step, index) => (
@@ -51,9 +65,9 @@ export default function Home() {
           </OrderedList>
         </Box>
         <Box height="16px" />
-        <Text className={openSans.className} fontSize="3xl" fontWeight="700" color={textColor}>
+        <Heading className={openSans.className} color={textColor}>
           {trans.home.text4}
-        </Text>
+        </Heading>
         <Box pl="2%">
           <UnorderedList color={textColor}>
             {features.map((feature, index) => (
@@ -70,6 +84,148 @@ export default function Home() {
               </ListItem>
             ))}
           </UnorderedList>
+        </Box>
+        <Box w="100%" pt="20px">
+          <Accordion defaultIndex={[0]} allowMultiple>
+            <AccordionItem>
+              <AccordionButton>
+                <Box as="span" flex="1" textAlign="left">
+                  <Heading className={openSans.className} color={textColor}>
+                    {trans.questions.q1}
+                  </Heading>
+                </Box>
+                <AccordionIcon />
+              </AccordionButton>
+              <AccordionPanel pb={4}>
+                <OrderedList>
+                  <ListItem>
+                    <Text
+                      className={openSans.className}
+                      fontSize="18px"
+                      fontWeight="500"
+                      color={textColor}
+                    >
+                      {trans.questions.a11}
+                    </Text>
+                  </ListItem>
+                  <ListItem>
+                    <Text
+                      className={openSans.className}
+                      fontSize="18px"
+                      fontWeight="500"
+                      color={textColor}
+                    >
+                      {trans.questions.a12}
+                    </Text>
+                  </ListItem>
+                  <ListItem>
+                    <Text
+                      className={openSans.className}
+                      fontSize="18px"
+                      fontWeight="500"
+                      color={textColor}
+                    >
+                      {trans.questions.a13}
+                    </Text>
+                  </ListItem>
+                  <ListItem>
+                    <Text
+                      className={openSans.className}
+                      fontSize="18px"
+                      fontWeight="500"
+                      color={textColor}
+                    >
+                      {trans.questions.a14}
+                    </Text>
+                  </ListItem>
+                  <ListItem>
+                    <Text
+                      className={openSans.className}
+                      fontSize="18px"
+                      fontWeight="500"
+                      color={textColor}
+                    >
+                      {trans.questions.a15}
+                    </Text>
+                  </ListItem>
+                  <ListItem>
+                    <Text
+                      className={openSans.className}
+                      fontSize="18px"
+                      fontWeight="500"
+                      color={textColor}
+                    >
+                      {trans.questions.a16}
+                    </Text>
+                  </ListItem>
+                  <ListItem>
+                    <Text
+                      className={openSans.className}
+                      fontSize="18px"
+                      fontWeight="500"
+                      color={textColor}
+                    >
+                      {trans.questions.a17}
+                    </Text>
+                  </ListItem>
+                </OrderedList>
+              </AccordionPanel>
+            </AccordionItem>
+            <AccordionItem>
+              <AccordionButton>
+                <Box as="span" flex="1" textAlign="left">
+                  <Heading className={openSans.className} color={textColor}>
+                    {trans.questions.q2}
+                  </Heading>
+                </Box>
+                <AccordionIcon />
+              </AccordionButton>
+              <AccordionPanel pb={4}>
+                <OrderedList>
+                  <ListItem>
+                    <Text
+                      className={openSans.className}
+                      fontSize="18px"
+                      fontWeight="500"
+                      color={textColor}
+                    >
+                      {trans.questions.a21}
+                    </Text>
+                  </ListItem>
+                  <ListItem>
+                    <Text
+                      className={openSans.className}
+                      fontSize="18px"
+                      fontWeight="500"
+                      color={textColor}
+                    >
+                      {trans.questions.a22}
+                    </Text>
+                  </ListItem>
+                  <ListItem>
+                    <Text
+                      className={openSans.className}
+                      fontSize="18px"
+                      fontWeight="500"
+                      color={textColor}
+                    >
+                      {trans.questions.a23}
+                    </Text>
+                  </ListItem>
+                  <ListItem>
+                    <Text
+                      className={openSans.className}
+                      fontSize="18px"
+                      fontWeight="500"
+                      color={textColor}
+                    >
+                      {trans.questions.a24}
+                    </Text>
+                  </ListItem>
+                </OrderedList>
+              </AccordionPanel>
+            </AccordionItem>
+          </Accordion>
         </Box>
       </VStack>
       <HStack

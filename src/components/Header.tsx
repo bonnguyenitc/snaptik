@@ -1,3 +1,4 @@
+import { keywords } from '@/contants';
 import useTrans from '@/hooks/useTrans';
 import Head from 'next/head';
 import { useRouter } from 'next/router';
@@ -20,6 +21,7 @@ const Header = ({ title }: Props) => {
       <meta name="color-scheme" content="dark light" />
       <meta itemProp="name" content={trans.home.title} />
       <meta name="description" content={trans.meta.description} />
+      <meta name="keywords" content={keywords.join(', ')} />
       <meta name="author" content="Admin" />
       <meta property="og:locale" content={router.locale} />
       <meta itemProp="image" content="/snapthumb.png" />
