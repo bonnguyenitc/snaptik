@@ -1,13 +1,13 @@
 import { useRouter } from 'next/router';
 import en from '../../public/lang/en';
-import vn from '../../public/lang/vn';
+import vi from '../../public/lang/vi';
 import br from '../../public/lang/br';
 import id from '../../public/lang/id';
 import { useMemo } from 'react';
 
 const langs = {
   en,
-  vn,
+  vi,
   br,
   ID: id,
 };

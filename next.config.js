@@ -5,7 +5,7 @@ const nextConfig = {
     locales: [
       'en',
       'ID',
-      'vn',
+      'vi',
       'ms',
       'jv',
       'cs',

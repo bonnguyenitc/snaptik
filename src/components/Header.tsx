@@ -44,7 +44,7 @@ const Header = ({ title }: Props) => {
       <link rel="alternate" hrefLang="x-default" href={process.env.NEXT_PUBLIC_DOMAIN} />
       <link rel="alternate" hrefLang="en" href={process.env.NEXT_PUBLIC_DOMAIN} />
       <link rel="alternate" hrefLang="in" href={`${process.env.NEXT_PUBLIC_DOMAIN}/in`} />
-      <link rel="alternate" hrefLang="vi" href={`${process.env.NEXT_PUBLIC_DOMAIN}/vn`} />
+      <link rel="alternate" hrefLang="vi" href={`${process.env.NEXT_PUBLIC_DOMAIN}/vi`} />
       <link rel="alternate" hrefLang="tr" href={`${process.env.NEXT_PUBLIC_DOMAIN}/tr`} />
       <link rel="alternate" hrefLang="ID" href={`${process.env.NEXT_PUBLIC_DOMAIN}/ID`} />
       <link rel="alternate" hrefLang="fr" href={`${process.env.NEXT_PUBLIC_DOMAIN}/fr`} />

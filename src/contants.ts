@@ -6,7 +6,7 @@ export const LANGUAGES = [
     name: 'English',
   },
   {
-    alias: 'vn',
+    alias: 'vi',
     name: 'Tiếng Việt',
   },
   {
