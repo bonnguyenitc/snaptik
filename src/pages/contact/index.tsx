@@ -10,7 +10,7 @@ export default function index() {
   return (
     <Layout title={trans.contact.title}>
       <VStack flex={1} bg={navBackgroundColor} justifyContent="center">
-        <Box w="50%">
+        <Box w={{ lg: '50%', base: '90%' }}>
           <Text fontSize="20px" color={textColor}>
             <Highlight
               query={process.env.NEXT_PUBLIC_CONTACT_MAIL ?? ''}

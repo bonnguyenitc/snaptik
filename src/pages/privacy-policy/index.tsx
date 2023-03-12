@@ -2,7 +2,7 @@
 import Layout from '@/components/Layout';
 import { useThemeColor } from '@/hooks/useThemeColor';
 import useTrans from '@/hooks/useTrans';
-import { Box, Heading, Highlight, Text, VStack } from '@chakra-ui/react';
+import { Box, Heading, Text, VStack } from '@chakra-ui/react';
 
 export default function index() {
   const { navBackgroundColor, textColor } = useThemeColor();
@@ -11,7 +11,9 @@ export default function index() {
     <Layout title={trans.privacy.title}>
       <VStack flex={1} bg={navBackgroundColor} alignItems="center">
         <Box h="32px" />
-        <Heading color={textColor}>{trans.privacy.short}</Heading>
+        <Heading color={textColor} textAlign="center">
+          {trans.privacy.short}
+        </Heading>
         <Box h="12px" />
         <Box w="80%">
           <Heading fontSize="20px" color={textColor}>

@@ -11,7 +11,9 @@ export default function index() {
     <Layout title={trans.terms.title}>
       <VStack flex={1} bg={navBackgroundColor} alignItems="center">
         <Box h="32px" />
-        <Heading color={textColor}>{trans.terms.short}</Heading>
+        <Heading color={textColor} textAlign="center">
+          {trans.terms.short}
+        </Heading>
         <Box h="12px" />
         <Box w="80%">
           <Heading fontSize="20px" color={textColor}>
