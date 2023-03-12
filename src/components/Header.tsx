@@ -45,8 +45,9 @@ const Header = ({ title }: Props) => {
       <link rel="alternate" hrefLang="en" href={process.env.NEXT_PUBLIC_DOMAIN} />
       <link rel="alternate" hrefLang="in" href={`${process.env.NEXT_PUBLIC_DOMAIN}/in`} />
       <link rel="alternate" hrefLang="vi" href={`${process.env.NEXT_PUBLIC_DOMAIN}/vi`} />
+      <link rel="alternate" hrefLang="br" href={`${process.env.NEXT_PUBLIC_DOMAIN}/br`} />
+      {/* <link rel="alternate" hrefLang="ID" href={`${process.env.NEXT_PUBLIC_DOMAIN}/ID`} />
       <link rel="alternate" hrefLang="tr" href={`${process.env.NEXT_PUBLIC_DOMAIN}/tr`} />
-      <link rel="alternate" hrefLang="ID" href={`${process.env.NEXT_PUBLIC_DOMAIN}/ID`} />
       <link rel="alternate" hrefLang="fr" href={`${process.env.NEXT_PUBLIC_DOMAIN}/fr`} />
       <link rel="alternate" hrefLang="pt" href={`${process.env.NEXT_PUBLIC_DOMAIN}/pr`} />
       <link rel="alternate" hrefLang="ru" href={`${process.env.NEXT_PUBLIC_DOMAIN}/ru`} />
@@ -62,8 +63,7 @@ const Header = ({ title }: Props) => {
       <link rel="alternate" hrefLang="hu" href={`${process.env.NEXT_PUBLIC_DOMAIN}/hu`} />
       <link rel="alternate" hrefLang="nl" href={`${process.env.NEXT_PUBLIC_DOMAIN}/nl`} />
       <link rel="alternate" hrefLang="ro" href={`${process.env.NEXT_PUBLIC_DOMAIN}/ro`} />
-      <link rel="alternate" hrefLang="el" href={`${process.env.NEXT_PUBLIC_DOMAIN}/el`} />
-      <link rel="alternate" hrefLang="br" href={`${process.env.NEXT_PUBLIC_DOMAIN}/br`} />
+      <link rel="alternate" hrefLang="el" href={`${process.env.NEXT_PUBLIC_DOMAIN}/el`} /> */}
       <link rel="canonical" href={`${process.env.NEXT_PUBLIC_DOMAIN}/${router.locale}`} />
     </Head>
   );
