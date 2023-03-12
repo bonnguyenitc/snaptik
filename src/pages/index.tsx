@@ -86,7 +86,7 @@ export default function Home() {
           </UnorderedList>
         </Box>
         <Box w="100%" pt="20px">
-          <Accordion defaultIndex={[0]} allowMultiple>
+          <Accordion allowMultiple>
             <AccordionItem>
               <AccordionButton>
                 <Box as="span" flex="1" textAlign="left">
