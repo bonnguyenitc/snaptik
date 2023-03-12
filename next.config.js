@@ -28,6 +28,7 @@ const nextConfig = {
       'ja',
       'in',
       'br',
+      'pr',
     ],
     defaultLocale: 'en',
     localeDetection: true,
