@@ -36,6 +36,7 @@ const Board = (props: Props) => {
   const [processing, setProcess] = useState('0%');
 
   const [loading, setLoading] = useState(false);
+  const [loadingMp3, setLoadingMp3] = useState(false);
   const [loadingInfo, setLoadingInfo] = useState(false);
 
   const { bgGradient } = useThemeColor();
@@ -125,6 +126,32 @@ const Board = (props: Props) => {
     },
     [link, videoInfo?.embed_product_id],
   );
+
+  const handleDownloadMp3 = useCallback(async () => {
+    // Download
+    const videoId = videoInfo?.embed_product_id;
+    if (videoId) {
+      const url = process.env.NEXT_PUBLIC_DOWNLOAD_MP3_URL + videoId + '.mp3';
+      const fileName = videoId + '.mp3';
+      let blob = null;
+      try {
+        setLoadingMp3(true);
+        blob = await getUrlRequest(url, () => {
+          // no need to
+        });
+      } catch (_) {
+        setLoadingMp3(false);
+      }
+      if (!blob) return setLoadingMp3(false);
+      const linkA = document.createElement('a');
+      linkA.href = window.URL.createObjectURL(blob as any);
+      linkA.download = fileName;
+      document.body.appendChild(linkA);
+      linkA.click();
+      document.body.removeChild(linkA);
+      setLoadingMp3(false);
+    }
+  }, [videoInfo?.embed_product_id]);
 
   return (
     <VStack py="20" bgGradient={bgGradient}>
@@ -282,6 +309,15 @@ const Board = (props: Props) => {
                     From {videoInfo.author_name}
                   </Text>
                 </Link>
+                <Button
+                  size="md"
+                  mt="18px"
+                  colorScheme="green"
+                  onClick={handleDownloadMp3}
+                  isLoading={loadingMp3}
+                >
+                  Download MP3
+                </Button>
               </Box>
             </Box>
           )}
