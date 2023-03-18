@@ -65,6 +65,11 @@ const Header = ({ title }: Props) => {
       <link rel="alternate" hrefLang="ro" href={`${process.env.NEXT_PUBLIC_DOMAIN}/ro`} />
       <link rel="alternate" hrefLang="el" href={`${process.env.NEXT_PUBLIC_DOMAIN}/el`} /> */}
       <link rel="canonical" href={`${process.env.NEXT_PUBLIC_DOMAIN}/${router.locale}`} />
+      <script
+        async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1909271227447970"
+        crossOrigin="anonymous"
+      ></script>
     </Head>
   );
 };
