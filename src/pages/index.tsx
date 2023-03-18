@@ -30,6 +30,16 @@ export default function Home() {
     <Layout>
       <Board />
       <VStack bg={navBackgroundColor} w="100%" alignItems="flex-start" px="10%" py="5">
+        <ins
+          className="adsbygoogle"
+          style={{
+            display: 'block',
+          }}
+          data-ad-client="ca-pub-1909271227447970"
+          data-ad-slot="2201551494"
+          data-ad-format="auto"
+          data-full-width-responsive="true"
+        ></ins>
         <Heading className={openSans.className} color={textColor}>
           {trans.home.text1}
         </Heading>
@@ -255,6 +265,16 @@ export default function Home() {
         >
           {trans.home.noteContent}
         </Text>
+        <ins
+          className="adsbygoogle"
+          style={{
+            display: 'block',
+          }}
+          data-ad-client="ca-pub-1909271227447970"
+          data-ad-slot="1214653326"
+          data-ad-format="auto"
+          data-full-width-responsive="true"
+        ></ins>
       </HStack>
     </Layout>
   );
