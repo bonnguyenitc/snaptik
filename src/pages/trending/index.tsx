@@ -21,7 +21,7 @@ const Trending = (props: Props) => {
         redirect: 'follow',
       };
 
-      fetch('https://www.tiktok.com/node/share/discover', requestOptions)
+      fetch('https://www.tiktok.com/node/share/discover', requestOptions as any)
         .then((response) => response.text())
         .then((result) => setData(result))
         .catch((error) => console.log('error', error));
