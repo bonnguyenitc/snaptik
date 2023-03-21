@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 export default {
   home: {
     title: "Tiktok Downloader - Baixar vídeo do TikTok sem marca d'água. - SnapTik1Click",
@@ -155,5 +156,8 @@ export default {
     a22: 'Escolha o vídeo do TikTok que você deseja baixar',
     a23: 'Clique em Compartilhar e, nas opções de Compartilhar, encontre o botão Copiar Link',
     a24: 'Seu URL de download está pronto na área de transferência.',
+  },
+  trending: {
+    title: 'Trending TikTok',
   },
 };

@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 export default {
   home: {
     title: 'Download Video Tiktok Tanpa Watermark - TikTok Downloader - SnapTik1Click',
@@ -154,5 +155,8 @@ export default {
     a22: 'Pilih video TikTok yang ingin Anda unduh',
     a23: 'Klik Bagikan dan pada opsi Bagikan, temukan tombol Salin Tautan',
     a24: 'Tautan unduhan Anda sudah siap di clipboard.',
+  },
+  trending: {
+    title: 'Trending TikTok',
   },
 };

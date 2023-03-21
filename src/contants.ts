@@ -38,13 +38,17 @@ export const openSans = Open_Sans({
 
 export const keywords = [
   // global
+  'trending',
+  'xuhuong tiktol',
+  'xu hướng tiktok',
   'snaptik',
+  'check trend tiktok',
+  'xu huong viet nam',
   'download video tiktok',
-  'tiktok downloader',
+  'download tiktok video',
   'tiktok video downloader',
   'tiktok video download without watermark',
   'tiktok video download for free',
-  'download tiktok video',
   'download tiktok video without watermark',
   'how to download tiktok video',
   'download video tiktok no logo, no watermark',

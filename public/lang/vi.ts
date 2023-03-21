@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 export default {
   home: {
     title: 'Tải video tiktok không logo, không watermark với 1 click - snaptik1click',
@@ -153,5 +154,8 @@ export default {
     a22: 'Chọn video tiktok mà bạn muốn tải xuống',
     a23: 'Nhấp vào Chia sẻ tìm và bấm vào Sao chép liên kết',
     a24: 'Liên kết tải xuống của bạn đã sẵn sàng',
+  },
+  trending: {
+    title: 'Xu hướng TikTok',
   },
 };

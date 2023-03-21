@@ -77,6 +77,12 @@ const NavBar = (props: Props) => {
               lg: 'flex',
             }}
           >
+            <Link href="/trending" locale={router.locale}>
+              <Text className={openSans.className} fontSize="md" color="red" fontWeight="600">
+                #Trending
+              </Text>
+            </Link>
+            <Box w="20px" />
             <Link href="/contact" locale={router.locale}>
               <Text className={openSans.className} fontSize="sm" color={textColor} fontWeight="600">
                 {trans.home.contact}
@@ -160,6 +166,14 @@ const NavBar = (props: Props) => {
         }}
         pb="12px"
       >
+        <Flex flex={0.3} justifyContent="center">
+          <Link href="/trending" locale={router.locale}>
+            <Text className={openSans.className} fontSize="md" color="red" fontWeight="700">
+              #Trending
+            </Text>
+          </Link>
+        </Flex>
+        <Box w="20px" />
         <Flex flex={0.3} justifyContent="center">
           <Link href="/contact" locale={router.locale}>
             <Text className={openSans.className} fontSize="sm" color={textColor} fontWeight="600">

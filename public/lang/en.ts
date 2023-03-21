@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 export default {
   home: {
     title: 'Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
@@ -154,5 +155,8 @@ export default {
     a22: 'Choose the TikTok video that you want to download',
     a23: 'Click Share and at the Share options, find Copy link button',
     a24: 'Your download URL is ready on the clipboard.',
+  },
+  trending: {
+    title: 'Trending TikTok',
   },
 };
