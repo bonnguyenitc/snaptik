@@ -8,6 +8,8 @@ import { MusicItem } from '@/components/MusicItem';
 import { HashTagItem } from '@/components/HashTagItem';
 import { UserItem } from '@/components/UserItem';
 import useTrans from '@/hooks/useTrans';
+import { useRouter } from 'next/router';
+import trendvn from '../../../public/trend-vn.json';
 
 type Props = {};
 
@@ -42,10 +44,16 @@ const Trending = (props: Props) => {
 
   const [data, setData] = useState<Cards[]>([]);
 
+  const router = useRouter();
+
   const [loading, setLoading] = useState(false);
 
   const getDataTrending = useCallback(async () => {
     try {
+      if (router.locale === 'vi') {
+        setData(trendvn as any);
+        return;
+      }
       setLoading(true);
       const data = await fetch('/api/trending', {
         method: 'GET',
@@ -56,7 +64,7 @@ const Trending = (props: Props) => {
     } catch (_) {
       setLoading(false);
     }
-  }, []);
+  }, [router.locale]);
 
   useEffect(() => {
     getDataTrending();
@@ -84,7 +92,7 @@ const Trending = (props: Props) => {
           color={textColor}
           mb="24px"
         >
-          Trending in {data?.[0]?.pageState?.region}
+          Trending in {router.locale === 'vi' ? 'VN' : data?.[0]?.pageState?.region}
         </Text>
         <Tabs variant="soft-rounded" colorScheme="messenger" isLazy width="100%">
           <TabList>
