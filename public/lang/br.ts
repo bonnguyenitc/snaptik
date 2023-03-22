@@ -1,6 +1,7 @@
 /* eslint-disable import/no-anonymous-default-export */
 export default {
   home: {
+    downloadMp3: 'Download MP3',
     title: "Tiktok Downloader - Baixar vídeo do TikTok sem marca d'água. - SnapTik1Click",
     languages: 'Línguas.',
     name: 'Download de vídeo do TikTok com apenas 1 clique.',

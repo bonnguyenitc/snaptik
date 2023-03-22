@@ -1,6 +1,7 @@
 /* eslint-disable import/no-anonymous-default-export */
 export default {
   home: {
+    downloadMp3: 'Tải MP3',
     title: 'Tải video tiktok không logo, không watermark với 1 click - snaptik1click',
     languages: 'Ngôn ngữ',
     name: 'Công cụ tải video tiktok với 1 click, nhanh nhất hiện nay',

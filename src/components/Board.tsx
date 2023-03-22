@@ -315,8 +315,9 @@ const Board = (props: Props) => {
                   colorScheme="green"
                   onClick={handleDownloadMp3}
                   isLoading={loadingMp3}
+                  leftIcon={<MdDownload size="28px" />}
                 >
-                  Download MP3
+                  {trans.home.downloadMp3}
                 </Button>
               </Box>
             </Box>

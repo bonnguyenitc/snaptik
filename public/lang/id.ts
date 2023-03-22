@@ -1,6 +1,7 @@
 /* eslint-disable import/no-anonymous-default-export */
 export default {
   home: {
+    downloadMp3: 'Download MP3',
     title: 'Download Video Tiktok Tanpa Watermark - TikTok Downloader - SnapTik1Click',
     languages: 'Languages',
     name: 'Download video TikTok hanya dengan 1 kali klik',
