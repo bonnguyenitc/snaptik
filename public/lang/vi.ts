@@ -2,14 +2,14 @@
 export default {
   home: {
     downloadMp3: 'Tải MP3',
-    title: 'Tải video tiktok không có logo, hình mờ, watermark miễn phí',
+    title: 'Tải video tiktok không có logo, watermark miễn phí',
     languages: 'Ngôn ngữ',
-    name: 'Công cụ tải video tiktok với 1 click, nhanh nhất hiện nay',
+    name: 'Tải video tiktok không có logo, watermark miễn phí',
     sologon: 'Không logo, không watermark. Nhanh chóng. Bất kỳ lúc nào ở đâu',
     paste: 'Dán',
     clear: 'Xoá',
     download: 'Tải xuống',
-    text1: 'Tải video tiktok không logo, không watermark với 1 click miễn phí',
+    text1: 'Tải video tiktok không có logo, watermark miễn phí',
     text2:
       'snaptik1click.com là một trình tải video tiktok, không logo, không watermark. Bạn chỉ cần dán link video tiktok cần tải. Tuy nhiên, bạn nên cẩn trọng và có được sự cho phép trước khi tải xuống video tiktok. Sử dụng các trình tải xuống như vậy có thể vi phạm các điều khoản dịch vụ của TikTok.',
     text3:
@@ -42,21 +42,21 @@ export default {
     },
   },
   meta: {
-    title: 'Tải video tiktok không có logo, hình mờ, watermark miễn phí',
-    itemprop: 'Tải video tiktok không có logo, hình mờ, watermark miễn phí',
+    title: 'Tải video tiktok không có logo, watermark miễn phí',
+    itemprop: 'Tải video tiktok không có logo, watermark miễn phí',
     description:
       'Công cụ tải video tiktok không có logo, hình mờ, watermark hoàn toàn miễn phí. Hỗ trợ mọi thiết bị như điện thoại Android, Iphone... Tiktok video without watermark.',
-    twitterTitle: 'Tải video tiktok không có logo, hình mờ, watermark miễn phí',
+    twitterTitle: 'Tải video tiktok không có logo, watermark miễn phí',
     twitterDescription:
       'Công cụ tải video tiktok không có logo, hình mờ, watermark hoàn toàn miễn phí. Hỗ trợ mọi thiết bị như điện thoại Android, Iphone... Tiktok video without watermark.',
-    ogTitle: 'Tải video tiktok không có logo, hình mờ, watermark miễn phí',
+    ogTitle: 'Tải video tiktok không có logo, watermark miễn phí',
     ogDescription:
       'Công cụ tải video tiktok không có logo, hình mờ, watermark hoàn toàn miễn phí. Hỗ trợ mọi thiết bị như điện thoại Android, Iphone... Tiktok video without watermark.',
     ogSiteName: 'Snaptik.App',
   },
   contact: {
     short: 'Contact',
-    title: 'Liên hệ - Tải video tiktok không có logo, hình mờ, watermark miễn phí',
+    title: 'Liên hệ - Tải video tiktok không có logo, watermark miễn phí',
     description1: 'Để liên hệ với snaptik1click.com, bạn vui lòng gởi mail đến ',
     description2:
       'Nếu bạn có bất kỳ câu hỏi, quan ngại hoặc phản hồi về trình tải TikTok của chúng tôi, đội ngũ của chúng tôi luôn sẵn sàng giúp đỡ. Chỉ cần gửi email cho chúng tôi, và chúng tôi sẽ cố gắng cung cấp cho bạn thông tin hoặc hỗ trợ bạn cần càng nhanh càng tốt. Chúng tôi trân trọng đóng góp của bạn và luôn cố gắng cải thiện dịch vụ của mình để đáp ứng nhu cầu của bạn.',

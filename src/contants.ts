@@ -37,10 +37,19 @@ export const openSans = Open_Sans({
 });
 
 export const keywords = [
+  // vietnam
+  'tải video tiktok',
+  'tai video tiktok',
+  'tải video tiktok không logo',
+  'lưu video tik tok',
+
   // global
-  'tiktok',
   'snaptik',
   'ssstik',
+  'snap tiktok',
+  'snaptik app',
+  'snap tiktok download without watermark',
+  'download video tiktok no watermark',
   'download video tiktok',
   'download music tiktok',
   'download tiktok video',
@@ -48,7 +57,4 @@ export const keywords = [
   'download tiktok video without watermark',
   'download videos from tiktok',
   'save tiktok videos',
-  // vietnam
-  'tải video tiktok',
-  'tai video tiktok',
 ];
