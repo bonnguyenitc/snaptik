@@ -38,38 +38,17 @@ export const openSans = Open_Sans({
 
 export const keywords = [
   // global
+  'tiktok',
   'snaptik',
   'ssstik',
   'download video tiktok',
+  'download music tiktok',
   'download tiktok video',
-  'TikTok downloader',
+  'tiktok downloader',
   'download tiktok video without watermark',
-  'Download videos from TikTok',
-  'Save TikTok videos',
+  'download videos from tiktok',
+  'save tiktok videos',
   // vietnam
   'tải video tiktok',
   'tai video tiktok',
-  'tải video tiktok không logo',
-  'tai video tiktok khong logo',
-  'tải video tiktok không watermark',
-  'tai video tiktok khong watermark',
-  // // brazil
-  // 'baixar vídeo do tiktok',
-  // 'baixar tiktok',
-  // "baixar vídeo do tiktok sem marca d'água",
-  // 'baixar vídeo do tiktok grátis',
-  // 'download de vídeo do tiktok',
-  // "baixar vídeo do tiktok sem logo, sem marca d'água",
-  // 'como baixar vídeo do tiktok',
-  // "baixar vídeo do tiktok sem logotipo, sem marca d'água",
-  // // indo
-  // 'unduh video tiktok',
-  // 'pengunduh tiktok',
-  // 'pengunduh video tiktok',
-  // 'unduh video tiktok tanpa watermark',
-  // 'unduh video tiktok secara gratis',
-  // 'unduh video tiktok',
-  // 'unduh video tiktok tanpa watermark',
-  // 'cara mengunduh video tiktok',
-  // 'unduh video tiktok tanpa logo, tanpa watermark',
 ];
