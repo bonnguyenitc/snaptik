@@ -2,7 +2,7 @@
 export default {
   home: {
     downloadMp3: 'Download MP3',
-    title: 'Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
+    title: 'TikTok downloader without watermark - Download TikTok video mp4 online',
     languages: 'Languages',
     name: 'TikTok Video Download With 1 Click',
     sologon: 'Without Watermark. Fastest. Any where',
@@ -42,17 +42,17 @@ export default {
     },
   },
   meta: {
-    title: 'Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
-    itemprop: 'Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
+    title: 'TikTok downloader without watermark - Download TikTok video mp4 online',
+    itemprop: 'TikTok downloader without watermark - Download TikTok video mp4 online',
     description:
-      'TikTok Video Downloader - snaptik1click.com is one of the best free Download video Tiktok No Watermark tool available online. You can download TikTok video from any device you have.',
-    twitterTitle: 'Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
+      'Fastest TikTok Downloader! Save your TikTok videos in two taps, fast and free. With or without a watermark with sss TikTok mp4 video downloader online',
+    twitterTitle: 'TikTok downloader without watermark - Download TikTok video mp4 online',
     twitterDescription:
-      'TikTok Video Downloader - snaptik1click.com is one of the best free Download video Tiktok No Watermark tool available online. You can download TikTok video from any device you have.',
-    ogTitle: 'Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
+      'Fastest TikTok Downloader! Save your TikTok videos in two taps, fast and free. With or without a watermark with sss TikTok mp4 video downloader online',
+    ogTitle: 'TikTok downloader without watermark - Download TikTok video mp4 online',
     ogDescription:
-      'TikTok Video Downloader - snaptik1click.com is one of the best free Download video Tiktok No Watermark tool available online. You can download TikTok video from any device you have.',
-    ogSiteName: 'Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik1Click',
+      'Fastest TikTok Downloader! Save your TikTok videos in two taps, fast and free. With or without a watermark with sss TikTok mp4 video downloader online',
+    ogSiteName: 'TikTok downloader without watermark - Download TikTok video mp4 online',
   },
   contact: {
     short: 'Contact',
