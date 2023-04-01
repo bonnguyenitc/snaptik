@@ -2,12 +2,12 @@ import { Open_Sans } from 'next/font/google';
 
 export const LANGUAGES = [
   {
-    alias: 'en',
-    name: 'English',
-  },
-  {
     alias: 'vi',
     name: 'Tiếng Việt',
+  },
+  {
+    alias: 'en',
+    name: 'English',
   },
   {
     alias: 'br',

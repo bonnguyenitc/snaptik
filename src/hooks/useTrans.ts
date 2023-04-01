@@ -6,8 +6,8 @@ import id from '../../public/lang/id';
 import { useMemo } from 'react';
 
 const langs = {
-  en,
   vi,
+  en,
   br,
   ID: id,
 };

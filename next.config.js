@@ -28,9 +28,9 @@ const nextConfig = {
   reactStrictMode: true,
   i18n: {
     locales: [
+      'vi',
       'en',
       'ID',
-      'vi',
       'br',
       // 'ms',
       // 'jv',
@@ -55,8 +55,8 @@ const nextConfig = {
       // 'in',
       // 'pr',
     ],
-    defaultLocale: 'en',
-    localeDetection: true,
+    defaultLocale: 'vi',
+    localeDetection: false,
   },
   trailingSlash: true,
 };
