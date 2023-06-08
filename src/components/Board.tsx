@@ -267,13 +267,13 @@ const Board = (props: Props) => {
           </Button>
         </Center>
       </form>
-      {error && (
+      {/* {error && (
         <Center width="90%">
           <Text fontSize="18px" fontWeight="700" pt="20px" color="primary.light">
             {{ ...(trans.errors as any) }?.[error]}
           </Text>
         </Center>
-      )}
+      )} */}
       <Box height="0px" />
       {loadingInfo ? (
         <Spinner color="primary.light" size="lg" mt="32px" />
